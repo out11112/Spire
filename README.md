@@ -26,6 +26,15 @@ cp .env.example .env
 
 ### 安装并启动 CLI
 
+需要 Node.js >= 22，直接通过发布包全局安装即可：
+
+```sh
+npm install -g https://spire.linkchat.online/releases/spire/0.1.0/spire-0.1.0.tgz --ignore-scripts
+spire
+```
+
+或从源码本地构建安装：
+
 ```bash
 cd cli
 npm install
@@ -43,3 +52,8 @@ spire logout                                 # 退出登录
 spire --server http://127.0.0.1:8100         # 连接本地测试服
 spire --auth http://127.0.0.1:8000           # 指定 LinkChat 认证地址
 ```
+
+## 开源协议与声明
+
+- 本项目源代码采用 [MIT License](LICENSE) 开源。
+- 本项目为社区非商业项目，与 Mega Crit 无关；原版游戏设定与相关内容版权归原作者所有。

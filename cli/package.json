@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "type": "module",
   "description": "Standalone cooperative card-climbing TUI client for Spire (with LinkChat account auth)",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bin": {
     "spire": "./dist/main.js"
   },
