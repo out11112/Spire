@@ -1,0 +1,46 @@
+{
+  "name": "linkchat-extension-spire",
+  "version": "0.8.3",
+  "type": "module",
+  "description": "Optional cooperative card-climbing TUI for LinkChat",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "files": [
+    "index.js",
+    "ids.js",
+    "card-cost.js",
+    "room-chat.js",
+    "lobby.js",
+    "catalog-view.js",
+    "shop-view.js",
+    "README.md",
+    "local-catalog.js",
+    "catalog-data",
+    "action-queue.js",
+    "palette.js",
+    "animation.js",
+    "ui-layout.js",
+    "power-text.js",
+    "panel.js",
+    "delegation.js"
+  ],
+  "linkchatExtension": {
+    "id": "spire",
+    "apiVersion": 4,
+    "entry": "./index.js",
+    "game": {
+      "protocol": 8,
+      "subprotocol": "linkchat-game-v8"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/out11112/LinkChat.git",
+    "directory": "linkchat-cli/extensions/spire"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

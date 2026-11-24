@@ -1,0 +1,4571 @@
+{
+  "Nibbit": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        42,
+        44
+      ],
+      "MaxInitialHp": [
+        8,
+        46,
+        48
+      ],
+      "ButtDamage": [
+        9,
+        12,
+        13
+      ],
+      "SliceBlock": [
+        8,
+        5,
+        6
+      ],
+      "SliceDamage": [
+        9,
+        6,
+        7
+      ],
+      "HissStrengthGain": [
+        9,
+        2,
+        3
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        42,
+        44,
+        44
+      ],
+      "MaxInitialHp": [
+        46,
+        48,
+        48
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "ButtDamage"
+      },
+      "1": {
+        "damage": "SliceDamage",
+        "block": "SliceBlock"
+      },
+      "2": {
+        "strength": "HissStrengthGain"
+      }
+    }
+  },
+  "FuzzyWurmCrawler": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        55,
+        58
+      ],
+      "MaxInitialHp": [
+        8,
+        57,
+        59
+      ],
+      "AcidGoopDamage": [
+        9,
+        4,
+        6
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        55,
+        58,
+        58
+      ],
+      "MaxInitialHp": [
+        57,
+        59,
+        59
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "AcidGoopDamage"
+      },
+      "2": {
+        "damage": "AcidGoopDamage"
+      }
+    }
+  },
+  "LeafSlimeS": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        11,
+        12
+      ],
+      "MaxInitialHp": [
+        8,
+        15,
+        16
+      ],
+      "TackleDamage": [
+        9,
+        3,
+        4
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        11,
+        12,
+        12
+      ],
+      "MaxInitialHp": [
+        15,
+        16,
+        16
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "TackleDamage"
+      }
+    }
+  },
+  "TwigSlimeS": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        7,
+        8
+      ],
+      "MaxInitialHp": [
+        8,
+        11,
+        12
+      ],
+      "TackleDamage": [
+        9,
+        4,
+        5
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        7,
+        8,
+        8
+      ],
+      "MaxInitialHp": [
+        11,
+        12,
+        12
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "TackleDamage"
+      }
+    }
+  },
+  "Inklet": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        11,
+        12
+      ],
+      "MaxInitialHp": [
+        8,
+        17,
+        18
+      ],
+      "JabDamage": [
+        9,
+        3,
+        4
+      ],
+      "WhirlwindDamage": [
+        9,
+        2,
+        3
+      ],
+      "PiercingGazeDamage": [
+        9,
+        10,
+        11
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        11,
+        12,
+        12
+      ],
+      "MaxInitialHp": [
+        17,
+        18,
+        18
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "JabDamage"
+      },
+      "1": {
+        "damage": "WhirlwindDamage"
+      },
+      "2": {
+        "damage": "PiercingGazeDamage"
+      }
+    }
+  },
+  "Byrdonis": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        81,
+        90
+      ],
+      "MaxInitialHp": [
+        8,
+        84,
+        90
+      ],
+      "PeckDamage": [
+        9,
+        3,
+        4
+      ],
+      "PeckRepeat": [
+        9,
+        3,
+        3
+      ],
+      "SwoopDamage": [
+        9,
+        17,
+        19
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        81,
+        90,
+        90
+      ],
+      "MaxInitialHp": [
+        84,
+        90,
+        90
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "SwoopDamage"
+      },
+      "1": {
+        "damage": "PeckDamage"
+      }
+    }
+  },
+  "BygoneEffigy": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        127,
+        132
+      ],
+      "SlashDamage": [
+        9,
+        13,
+        15
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        127,
+        132,
+        132
+      ],
+      "MaxInitialHp": [
+        127,
+        132,
+        132
+      ]
+    },
+    "moves": {
+      "2": {
+        "damage": "SlashDamage"
+      }
+    }
+  },
+  "Vantom": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        173,
+        183
+      ],
+      "SlipperyAmt": [
+        8,
+        8,
+        9
+      ],
+      "InkBlotDamage": [
+        9,
+        7,
+        8
+      ],
+      "InkyLanceDamage": [
+        9,
+        6,
+        7
+      ],
+      "DismemberDamage": [
+        9,
+        26,
+        30
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        173,
+        183,
+        183
+      ],
+      "MaxInitialHp": [
+        173,
+        183,
+        183
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "InkBlotDamage"
+      },
+      "1": {
+        "damage": "InkyLanceDamage"
+      },
+      "2": {
+        "damage": "DismemberDamage"
+      }
+    }
+  },
+  "KnowledgeDemon": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        379,
+        399
+      ],
+      "SlapDamage": [
+        9,
+        17,
+        18
+      ],
+      "PonderDamage": [
+        9,
+        11,
+        13
+      ],
+      "KnowledgeOverwhelmingDamage": [
+        9,
+        8,
+        9
+      ],
+      "PonderStrength": [
+        9,
+        2,
+        3
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        379,
+        399,
+        399
+      ],
+      "MaxInitialHp": [
+        379,
+        399,
+        399
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "SlapDamage"
+      },
+      "2": {
+        "damage": "KnowledgeOverwhelmingDamage"
+      },
+      "3": {
+        "damage": "PonderDamage",
+        "strength": "PonderStrength"
+      }
+    }
+  },
+  "FakeMerchantMonster": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        165,
+        175
+      ],
+      "MaxInitialHp": [
+        8,
+        165,
+        175
+      ],
+      "SwipeDamage": [
+        9,
+        13,
+        15
+      ],
+      "ThrowRelicDamage": [
+        9,
+        9,
+        10
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        165,
+        175,
+        175
+      ],
+      "MaxInitialHp": [
+        165,
+        175,
+        175
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "SwipeDamage"
+      },
+      "2": {
+        "damage": "ThrowRelicDamage"
+      }
+    }
+  },
+  "ThievingHopper": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        79,
+        84
+      ],
+      "TheftDamage": [
+        9,
+        17,
+        19
+      ],
+      "HatTrickDamage": [
+        9,
+        21,
+        23
+      ],
+      "NabDamage": [
+        9,
+        14,
+        16
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        79,
+        84,
+        84
+      ],
+      "MaxInitialHp": [
+        79,
+        84,
+        84
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "TheftDamage"
+      },
+      "2": {
+        "damage": "HatTrickDamage"
+      },
+      "3": {
+        "damage": "NabDamage"
+      }
+    }
+  },
+  "TheLost": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        93,
+        99
+      ],
+      "EyeLasersDamage": [
+        9,
+        4,
+        5
+      ],
+      "DebilitatingSmogStrengthStealAmount": [
+        9,
+        2,
+        2
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        93,
+        99,
+        99
+      ],
+      "MaxInitialHp": [
+        93,
+        99,
+        99
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "EyeLasersDamage"
+      }
+    }
+  },
+  "TheForgotten": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        106,
+        111
+      ],
+      "DebilitatingSmogDexStealAmount": [
+        9,
+        2,
+        2
+      ],
+      "AttackDamage": [
+        9,
+        13,
+        15
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        106,
+        111,
+        111
+      ],
+      "MaxInitialHp": [
+        106,
+        111,
+        111
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "AttackDamage"
+      }
+    }
+  },
+  "AxeRubyRaider": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        20,
+        21
+      ],
+      "MaxInitialHp": [
+        8,
+        22,
+        23
+      ],
+      "SwingDamage": [
+        9,
+        5,
+        6
+      ],
+      "SwingBlock": [
+        9,
+        5,
+        6
+      ],
+      "BigSwingDamage": [
+        9,
+        12,
+        13
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        20,
+        21,
+        21
+      ],
+      "MaxInitialHp": [
+        22,
+        23,
+        23
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "SwingDamage",
+        "moveBlock": "SwingBlock"
+      },
+      "1": {
+        "damage": "SwingDamage",
+        "moveBlock": "SwingBlock"
+      },
+      "2": {
+        "damage": "BigSwingDamage"
+      }
+    }
+  },
+  "AssassinRubyRaider": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        18,
+        19
+      ],
+      "MaxInitialHp": [
+        8,
+        23,
+        24
+      ],
+      "KillshotDamage": [
+        9,
+        10,
+        11
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        18,
+        19,
+        19
+      ],
+      "MaxInitialHp": [
+        23,
+        24,
+        24
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "KillshotDamage"
+      }
+    }
+  },
+  "BruteRubyRaider": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        30,
+        31
+      ],
+      "MaxInitialHp": [
+        8,
+        33,
+        34
+      ],
+      "BeatDamage": [
+        9,
+        7,
+        8
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        30,
+        31,
+        31
+      ],
+      "MaxInitialHp": [
+        33,
+        34,
+        34
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "BeatDamage"
+      }
+    }
+  },
+  "CrossbowRubyRaider": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        18,
+        19
+      ],
+      "MaxInitialHp": [
+        8,
+        21,
+        22
+      ],
+      "FireDamage": [
+        9,
+        14,
+        16
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        18,
+        19,
+        19
+      ],
+      "MaxInitialHp": [
+        21,
+        22,
+        22
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "FireDamage"
+      }
+    }
+  },
+  "TrackerRubyRaider": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        21,
+        22
+      ],
+      "MaxInitialHp": [
+        8,
+        25,
+        26
+      ],
+      "HoundsDamage": [
+        9,
+        1,
+        1
+      ],
+      "HoundsRepeat": [
+        9,
+        8,
+        9
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        21,
+        22,
+        22
+      ],
+      "MaxInitialHp": [
+        25,
+        26,
+        26
+      ]
+    },
+    "moves": {
+      "1": {
+        "hits": "HoundsRepeat"
+      }
+    }
+  },
+  "HauntedShip": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        63,
+        67
+      ],
+      "SwipeDamage": [
+        9,
+        13,
+        14
+      ],
+      "StompDamage": [
+        9,
+        4,
+        5
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        63,
+        67,
+        67
+      ],
+      "MaxInitialHp": [
+        63,
+        67,
+        67
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "SwipeDamage"
+      },
+      "2": {
+        "damage": "StompDamage"
+      }
+    }
+  },
+  "LouseProgenitor": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        134,
+        138
+      ],
+      "MaxInitialHp": [
+        8,
+        136,
+        141
+      ],
+      "WebDamage": [
+        9,
+        9,
+        10
+      ],
+      "PounceDamage": [
+        9,
+        14,
+        16
+      ],
+      "CurlBlock": [
+        8,
+        14,
+        18
+      ],
+      "GrowStrength": [
+        9,
+        5,
+        7
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        134,
+        138,
+        138
+      ],
+      "MaxInitialHp": [
+        136,
+        141,
+        141
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "WebDamage"
+      },
+      "1": {
+        "moveBlock": "CurlBlock",
+        "strength": "GrowStrength"
+      },
+      "2": {
+        "damage": "PounceDamage"
+      }
+    }
+  },
+  "Ovicopter": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        124,
+        126
+      ],
+      "MaxInitialHp": [
+        8,
+        130,
+        132
+      ],
+      "SmashDamage": [
+        9,
+        16,
+        17
+      ],
+      "TenderizerDamage": [
+        9,
+        7,
+        8
+      ],
+      "NutritionalPasteStrengthAmount": [
+        9,
+        3,
+        4
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        124,
+        126,
+        126
+      ],
+      "MaxInitialHp": [
+        130,
+        132,
+        132
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "SmashDamage"
+      },
+      "2": {
+        "damage": "TenderizerDamage"
+      },
+      "3": {
+        "strength": "NutritionalPasteStrengthAmount"
+      }
+    }
+  },
+  "ToughEgg": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        14,
+        15
+      ],
+      "MaxInitialHp": [
+        8,
+        18,
+        19
+      ],
+      "HatchlingMinHp": [
+        8,
+        19,
+        20
+      ],
+      "HatchlingMaxHp": [
+        8,
+        22,
+        23
+      ],
+      "NibbleDamage": [
+        9,
+        4,
+        5
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        14,
+        15,
+        15
+      ],
+      "MaxInitialHp": [
+        18,
+        19,
+        19
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "NibbleDamage"
+      }
+    }
+  },
+  "Fabricator": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        150,
+        155
+      ],
+      "FabricatingStrikeDamage": [
+        9,
+        18,
+        21
+      ],
+      "DisintegrateDamage": [
+        9,
+        11,
+        13
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        150,
+        155,
+        155
+      ],
+      "MaxInitialHp": [
+        150,
+        155,
+        155
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "FabricatingStrikeDamage"
+      },
+      "2": {
+        "damage": "DisintegrateDamage"
+      }
+    }
+  },
+  "Zapbot": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        18,
+        19
+      ],
+      "MaxInitialHp": [
+        8,
+        23,
+        24
+      ],
+      "ZapDamage": [
+        9,
+        14,
+        15
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        18,
+        19,
+        19
+      ],
+      "MaxInitialHp": [
+        23,
+        24,
+        24
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "ZapDamage"
+      }
+    }
+  },
+  "Stabbot": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        18,
+        19
+      ],
+      "MaxInitialHp": [
+        8,
+        23,
+        24
+      ],
+      "StabDamage": [
+        9,
+        11,
+        12
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        18,
+        19,
+        19
+      ],
+      "MaxInitialHp": [
+        23,
+        24,
+        24
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "StabDamage"
+      }
+    }
+  },
+  "Guardbot": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        16,
+        17
+      ],
+      "MaxInitialHp": [
+        8,
+        20,
+        21
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        16,
+        17,
+        17
+      ],
+      "MaxInitialHp": [
+        20,
+        21,
+        21
+      ]
+    },
+    "moves": {}
+  },
+  "Noisebot": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        18,
+        19
+      ],
+      "MaxInitialHp": [
+        8,
+        23,
+        24
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        18,
+        19,
+        19
+      ],
+      "MaxInitialHp": [
+        23,
+        24,
+        24
+      ]
+    },
+    "moves": {}
+  },
+  "Myte": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        61,
+        64
+      ],
+      "MaxInitialHp": [
+        8,
+        67,
+        69
+      ],
+      "BiteDamage": [
+        9,
+        13,
+        15
+      ],
+      "SuckDamage": [
+        9,
+        4,
+        6
+      ],
+      "SuckStrength": [
+        9,
+        2,
+        3
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        61,
+        64,
+        64
+      ],
+      "MaxInitialHp": [
+        67,
+        69,
+        69
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "BiteDamage"
+      },
+      "2": {
+        "damage": "SuckDamage",
+        "strength": "SuckStrength"
+      }
+    }
+  },
+  "OwlMagistrate": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        231,
+        247
+      ],
+      "VerdictDamage": [
+        9,
+        33,
+        36
+      ],
+      "ScrutinyDamage": [
+        9,
+        16,
+        17
+      ],
+      "PeckAssaultDamage": [
+        9,
+        4,
+        4
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        231,
+        247,
+        247
+      ],
+      "MaxInitialHp": [
+        231,
+        247,
+        247
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "ScrutinyDamage"
+      },
+      "3": {
+        "damage": "VerdictDamage"
+      }
+    }
+  },
+  "GremlinMerc": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        47,
+        51
+      ],
+      "MaxInitialHp": [
+        8,
+        49,
+        53
+      ],
+      "GimmeDamage": [
+        8,
+        7,
+        8
+      ],
+      "DoubleSmashDamage": [
+        8,
+        6,
+        7
+      ],
+      "HeheDamage": [
+        8,
+        8,
+        9
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        47,
+        51,
+        51
+      ],
+      "MaxInitialHp": [
+        49,
+        53,
+        53
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "GimmeDamage"
+      },
+      "1": {
+        "damage": "DoubleSmashDamage"
+      },
+      "2": {
+        "damage": "HeheDamage"
+      }
+    }
+  },
+  "SneakyGremlin": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        10,
+        11
+      ],
+      "MaxInitialHp": [
+        8,
+        14,
+        15
+      ],
+      "TackleDamage": [
+        9,
+        9,
+        10
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        10,
+        11,
+        11
+      ],
+      "MaxInitialHp": [
+        14,
+        15,
+        15
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "TackleDamage"
+      }
+    }
+  },
+  "FatGremlin": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        13,
+        14
+      ],
+      "MaxInitialHp": [
+        8,
+        17,
+        18
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        13,
+        14,
+        14
+      ],
+      "MaxInitialHp": [
+        17,
+        18,
+        18
+      ]
+    },
+    "moves": {}
+  },
+  "TwoTailedRat": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        17,
+        18
+      ],
+      "MaxInitialHp": [
+        8,
+        21,
+        22
+      ],
+      "ScratchDamage": [
+        9,
+        8,
+        9
+      ],
+      "DiseaseBiteDamage": [
+        9,
+        6,
+        7
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        17,
+        18,
+        18
+      ],
+      "MaxInitialHp": [
+        21,
+        22,
+        22
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "ScratchDamage"
+      },
+      "1": {
+        "damage": "DiseaseBiteDamage"
+      }
+    }
+  },
+  "LivingFog": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        80,
+        82
+      ],
+      "AdvancedGasDamage": [
+        9,
+        8,
+        9
+      ],
+      "BloatDamage": [
+        9,
+        5,
+        6
+      ],
+      "SuperGasBlastDamage": [
+        9,
+        8,
+        9
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        80,
+        82,
+        82
+      ],
+      "MaxInitialHp": [
+        80,
+        82,
+        82
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "AdvancedGasDamage"
+      },
+      "1": {
+        "damage": "BloatDamage"
+      },
+      "2": {
+        "damage": "AdvancedGasDamage"
+      }
+    }
+  },
+  "GasBomb": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        7,
+        8
+      ],
+      "ExplodeDamage": [
+        9,
+        8,
+        9
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        7,
+        8,
+        8
+      ],
+      "MaxInitialHp": [
+        7,
+        8,
+        8
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "ExplodeDamage"
+      }
+    }
+  },
+  "Fogmog": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        74,
+        78
+      ],
+      "SwipeDamage": [
+        9,
+        8,
+        9
+      ],
+      "HeadbuttDamage": [
+        9,
+        14,
+        16
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        74,
+        78,
+        78
+      ],
+      "MaxInitialHp": [
+        74,
+        78,
+        78
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "SwipeDamage"
+      },
+      "2": {
+        "damage": "SwipeDamage"
+      },
+      "3": {
+        "damage": "HeadbuttDamage"
+      }
+    }
+  },
+  "TheObscura": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        123,
+        129
+      ],
+      "PiercingGazeDamage": [
+        9,
+        10,
+        11
+      ],
+      "HardeningStrikeDamage": [
+        9,
+        6,
+        7
+      ],
+      "HardeningStrikeBlock": [
+        9,
+        6,
+        7
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        123,
+        129,
+        129
+      ],
+      "MaxInitialHp": [
+        123,
+        129,
+        129
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "PiercingGazeDamage"
+      },
+      "3": {
+        "damage": "HardeningStrikeDamage",
+        "block": "HardeningStrikeBlock"
+      }
+    }
+  },
+  "Parafright": {
+    "values": {
+      "SlamDamage": [
+        9,
+        16,
+        17
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        21,
+        21,
+        21
+      ],
+      "MaxInitialHp": [
+        21,
+        21,
+        21
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "SlamDamage"
+      }
+    }
+  },
+  "SlitheringStrangler": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        53,
+        54
+      ],
+      "MaxInitialHp": [
+        8,
+        55,
+        56
+      ],
+      "ThwackDamage": [
+        9,
+        7,
+        8
+      ],
+      "LashDamage": [
+        9,
+        12,
+        13
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        53,
+        54,
+        54
+      ],
+      "MaxInitialHp": [
+        55,
+        56,
+        56
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "ThwackDamage"
+      },
+      "2": {
+        "damage": "LashDamage"
+      }
+    }
+  },
+  "SlumberingBeetle": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        86,
+        89
+      ],
+      "RolloutDamage": [
+        9,
+        16,
+        18
+      ],
+      "PlatingAmount": [
+        8,
+        15,
+        18
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        86,
+        89,
+        89
+      ],
+      "MaxInitialHp": [
+        86,
+        89,
+        89
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "RolloutDamage"
+      }
+    }
+  },
+  "LivingShield": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        55,
+        65
+      ],
+      "SmashDamage": [
+        9,
+        16,
+        18
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        55,
+        65,
+        65
+      ],
+      "MaxInitialHp": [
+        55,
+        65,
+        65
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "SmashDamage"
+      }
+    }
+  },
+  "TurretOperator": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        41,
+        51
+      ],
+      "FireDamage": [
+        9,
+        3,
+        4
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        41,
+        51,
+        51
+      ],
+      "MaxInitialHp": [
+        41,
+        51,
+        51
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "FireDamage"
+      },
+      "1": {
+        "damage": "FireDamage"
+      }
+    }
+  },
+  "Seapunk": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        44,
+        47
+      ],
+      "MaxInitialHp": [
+        8,
+        46,
+        49
+      ],
+      "SeaKickDamage": [
+        9,
+        11,
+        13
+      ],
+      "BubbleBlock": [
+        8,
+        7,
+        8
+      ],
+      "BubbleStr": [
+        9,
+        1,
+        2
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        44,
+        47,
+        47
+      ],
+      "MaxInitialHp": [
+        46,
+        49,
+        49
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "SeaKickDamage"
+      },
+      "2": {
+        "block": "BubbleBlock",
+        "strength": "BubbleStr"
+      }
+    }
+  },
+  "CalcifiedCultist": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        38,
+        39
+      ],
+      "MaxInitialHp": [
+        8,
+        41,
+        42
+      ],
+      "DarkStrikeDamage": [
+        9,
+        9,
+        11
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        38,
+        39,
+        39
+      ],
+      "MaxInitialHp": [
+        41,
+        42,
+        42
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "DarkStrikeDamage"
+      }
+    }
+  },
+  "SewerClam": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        56,
+        58
+      ],
+      "JetDamage": [
+        9,
+        10,
+        11
+      ],
+      "PlatingAmount": [
+        8,
+        8,
+        9
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        56,
+        58,
+        58
+      ],
+      "MaxInitialHp": [
+        56,
+        58,
+        58
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "JetDamage"
+      }
+    }
+  },
+  "SlimedBerserker": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        261,
+        281
+      ],
+      "PummelingDamage": [
+        9,
+        4,
+        5
+      ],
+      "SmotherDamage": [
+        9,
+        30,
+        33
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        261,
+        281,
+        281
+      ],
+      "MaxInitialHp": [
+        261,
+        281,
+        281
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "PummelingDamage"
+      },
+      "3": {
+        "damage": "SmotherDamage"
+      }
+    }
+  },
+  "GlobeHead": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        148,
+        158
+      ],
+      "ThunderStrikeDamage": [
+        9,
+        6,
+        7
+      ],
+      "ShockingSlapDamage": [
+        9,
+        13,
+        14
+      ],
+      "GalvanicBurstDamage": [
+        9,
+        16,
+        17
+      ],
+      "GalvanicPowerAmount": [
+        9,
+        6,
+        8
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        148,
+        158,
+        158
+      ],
+      "MaxInitialHp": [
+        148,
+        158,
+        158
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "ShockingSlapDamage"
+      },
+      "1": {
+        "damage": "ThunderStrikeDamage"
+      },
+      "2": {
+        "damage": "GalvanicBurstDamage"
+      }
+    }
+  },
+  "FrogKnight": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        191,
+        199
+      ],
+      "StrikeDownEvilDamage": [
+        9,
+        21,
+        23
+      ],
+      "TongueLashDamage": [
+        9,
+        13,
+        14
+      ],
+      "BeetleChargeDamage": [
+        9,
+        35,
+        40
+      ],
+      "PlatingAmount": [
+        8,
+        15,
+        19
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        191,
+        199,
+        199
+      ],
+      "MaxInitialHp": [
+        191,
+        199,
+        199
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "TongueLashDamage"
+      },
+      "1": {
+        "damage": "StrikeDownEvilDamage"
+      },
+      "3": {
+        "damage": "BeetleChargeDamage"
+      }
+    }
+  },
+  "HunterKiller": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        121,
+        126
+      ],
+      "BiteDamage": [
+        9,
+        17,
+        19
+      ],
+      "PunctureDamage": [
+        9,
+        7,
+        8
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        121,
+        126,
+        126
+      ],
+      "MaxInitialHp": [
+        121,
+        126,
+        126
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "BiteDamage"
+      },
+      "2": {
+        "damage": "PunctureDamage"
+      }
+    }
+  },
+  "Chomper": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        60,
+        63
+      ],
+      "MaxInitialHp": [
+        8,
+        64,
+        67
+      ],
+      "ClampDamage": [
+        9,
+        8,
+        9
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        60,
+        63,
+        63
+      ],
+      "MaxInitialHp": [
+        64,
+        67,
+        67
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "ClampDamage"
+      }
+    }
+  },
+  "DevotedSculptor": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        162,
+        172
+      ],
+      "SavageDamage": [
+        9,
+        12,
+        15
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        162,
+        172,
+        172
+      ],
+      "MaxInitialHp": [
+        162,
+        172,
+        172
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "SavageDamage"
+      }
+    }
+  },
+  "BowlbugRock": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        45,
+        46
+      ],
+      "MaxInitialHp": [
+        8,
+        48,
+        49
+      ],
+      "HeadbuttDamage": [
+        9,
+        15,
+        16
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        45,
+        46,
+        46
+      ],
+      "MaxInitialHp": [
+        48,
+        49,
+        49
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "HeadbuttDamage"
+      }
+    }
+  },
+  "BowlbugEgg": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        21,
+        23
+      ],
+      "MaxInitialHp": [
+        8,
+        22,
+        24
+      ],
+      "BiteDamage": [
+        9,
+        7,
+        8
+      ],
+      "ProtectBlock": [
+        9,
+        7,
+        8
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        21,
+        23,
+        23
+      ],
+      "MaxInitialHp": [
+        22,
+        24,
+        24
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "BiteDamage",
+        "block": "ProtectBlock"
+      }
+    }
+  },
+  "BowlbugNectar": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        35,
+        36
+      ],
+      "MaxInitialHp": [
+        8,
+        38,
+        39
+      ],
+      "BuffStrengthGain": [
+        9,
+        15,
+        16
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        35,
+        36,
+        36
+      ],
+      "MaxInitialHp": [
+        38,
+        39,
+        39
+      ]
+    },
+    "moves": {
+      "1": {
+        "strength": "BuffStrengthGain"
+      }
+    }
+  },
+  "BowlbugSilk": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        40,
+        41
+      ],
+      "MaxInitialHp": [
+        8,
+        43,
+        44
+      ],
+      "ThrashDamage": [
+        9,
+        4,
+        5
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        40,
+        41,
+        41
+      ],
+      "MaxInitialHp": [
+        43,
+        44,
+        44
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "ThrashDamage"
+      }
+    }
+  },
+  "PhantasmalGardener": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        26,
+        27
+      ],
+      "MaxInitialHp": [
+        8,
+        31,
+        32
+      ],
+      "BiteDamage": [
+        9,
+        5,
+        5
+      ],
+      "LashDamage": [
+        9,
+        7,
+        7
+      ],
+      "FlailRepeat": [
+        9,
+        3,
+        3
+      ],
+      "EnlargeStr": [
+        9,
+        2,
+        3
+      ],
+      "SkittishAmount": [
+        8,
+        6,
+        7
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        26,
+        27,
+        27
+      ],
+      "MaxInitialHp": [
+        31,
+        32,
+        32
+      ]
+    },
+    "moves": {
+      "3": {
+        "strength": "EnlargeStr"
+      }
+    }
+  },
+  "DecimillipedeSegmentFront": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        40,
+        46
+      ],
+      "MaxInitialHp": [
+        8,
+        46,
+        52
+      ],
+      "WritheDamage": [
+        9,
+        5,
+        6
+      ],
+      "ConstrictDamage": [
+        9,
+        8,
+        9
+      ],
+      "BulkDamage": [
+        9,
+        6,
+        7
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        40,
+        46,
+        46
+      ],
+      "MaxInitialHp": [
+        46,
+        52,
+        52
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "WritheDamage"
+      },
+      "1": {
+        "damage": "BulkDamage"
+      },
+      "2": {
+        "damage": "ConstrictDamage"
+      }
+    }
+  },
+  "DecimillipedeSegmentMiddle": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        40,
+        46
+      ],
+      "MaxInitialHp": [
+        8,
+        46,
+        52
+      ],
+      "WritheDamage": [
+        9,
+        5,
+        6
+      ],
+      "ConstrictDamage": [
+        9,
+        8,
+        9
+      ],
+      "BulkDamage": [
+        9,
+        6,
+        7
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        40,
+        46,
+        46
+      ],
+      "MaxInitialHp": [
+        46,
+        52,
+        52
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "WritheDamage"
+      },
+      "1": {
+        "damage": "BulkDamage"
+      },
+      "2": {
+        "damage": "ConstrictDamage"
+      }
+    }
+  },
+  "DecimillipedeSegmentBack": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        40,
+        46
+      ],
+      "MaxInitialHp": [
+        8,
+        46,
+        52
+      ],
+      "WritheDamage": [
+        9,
+        5,
+        6
+      ],
+      "ConstrictDamage": [
+        9,
+        8,
+        9
+      ],
+      "BulkDamage": [
+        9,
+        6,
+        7
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        40,
+        46,
+        46
+      ],
+      "MaxInitialHp": [
+        46,
+        52,
+        52
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "WritheDamage"
+      },
+      "1": {
+        "damage": "BulkDamage"
+      },
+      "2": {
+        "damage": "ConstrictDamage"
+      }
+    }
+  },
+  "InfestedPrism": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        161,
+        171
+      ],
+      "JabDamage": [
+        9,
+        15,
+        17
+      ],
+      "VitalSparkAmount": [
+        9,
+        2,
+        3
+      ],
+      "PulsateDamage": [
+        9,
+        8,
+        10
+      ],
+      "PulsateBlock": [
+        8,
+        20,
+        22
+      ],
+      "RadiateDamage": [
+        9,
+        11,
+        13
+      ],
+      "RadiateBlock": [
+        9,
+        11,
+        13
+      ],
+      "WhirlwindDamage": [
+        9,
+        5,
+        6
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        161,
+        171,
+        171
+      ],
+      "MaxInitialHp": [
+        161,
+        171,
+        171
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "JabDamage"
+      },
+      "1": {
+        "damage": "RadiateDamage",
+        "block": "RadiateBlock"
+      },
+      "2": {
+        "damage": "WhirlwindDamage"
+      },
+      "3": {
+        "damage": "PulsateDamage",
+        "block": "PulsateBlock",
+        "vitalSpark": "VitalSparkAmount"
+      }
+    }
+  },
+  "SkulkingColony": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        75,
+        80
+      ],
+      "InertiaDamage": [
+        9,
+        9,
+        11
+      ],
+      "ZoomDamage": [
+        9,
+        14,
+        16
+      ],
+      "PiercingStabsDamage": [
+        9,
+        7,
+        8
+      ],
+      "InertiaStrengthGain": [
+        9,
+        2,
+        4
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        75,
+        80,
+        80
+      ],
+      "MaxInitialHp": [
+        75,
+        80,
+        80
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "ZoomDamage"
+      },
+      "1": {
+        "damage": "ZoomDamage"
+      },
+      "2": {
+        "damage": "InertiaDamage",
+        "strength": "InertiaStrengthGain"
+      },
+      "3": {
+        "damage": "PiercingStabsDamage"
+      }
+    }
+  },
+  "TerrorEel": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        140,
+        150
+      ],
+      "ShriekAmount": [
+        8,
+        70,
+        75
+      ],
+      "CrashDamage": [
+        9,
+        16,
+        18
+      ],
+      "ThrashDamage": [
+        9,
+        3,
+        4
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        140,
+        150,
+        150
+      ],
+      "MaxInitialHp": [
+        140,
+        150,
+        150
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "CrashDamage"
+      },
+      "1": {
+        "damage": "ThrashDamage"
+      }
+    }
+  },
+  "Entomancer": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        145,
+        165
+      ],
+      "SpearMoveDamage": [
+        9,
+        18,
+        20
+      ],
+      "BeesRepeat": [
+        9,
+        7,
+        8
+      ],
+      "BeesDamage": [
+        9,
+        3,
+        3
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        145,
+        165,
+        165
+      ],
+      "MaxInitialHp": [
+        145,
+        165,
+        165
+      ]
+    },
+    "moves": {
+      "0": {
+        "hits": "BeesRepeat"
+      },
+      "1": {
+        "damage": "SpearMoveDamage"
+      }
+    }
+  },
+  "SoulNexus": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        234,
+        254
+      ],
+      "SoulBurnDamage": [
+        9,
+        29,
+        31
+      ],
+      "MaelstromDamage": [
+        9,
+        6,
+        7
+      ],
+      "MaelstromRepeat": [
+        9,
+        4,
+        4
+      ],
+      "DrainLifeDamage": [
+        9,
+        18,
+        19
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        234,
+        254,
+        254
+      ],
+      "MaxInitialHp": [
+        234,
+        254,
+        254
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "SoulBurnDamage"
+      },
+      "1": {
+        "damage": "MaelstromDamage"
+      },
+      "2": {
+        "damage": "DrainLifeDamage"
+      }
+    }
+  },
+  "MechaKnight": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        300,
+        320
+      ],
+      "ChargeDamage": [
+        9,
+        25,
+        30
+      ],
+      "FlamethrowerDamage": [
+        9,
+        8,
+        12
+      ],
+      "HeavyCleaveDamage": [
+        9,
+        35,
+        40
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        300,
+        320,
+        320
+      ],
+      "MaxInitialHp": [
+        300,
+        320,
+        320
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "ChargeDamage"
+      },
+      "1": {
+        "damage": "FlamethrowerDamage"
+      },
+      "3": {
+        "damage": "HeavyCleaveDamage"
+      }
+    }
+  },
+  "Crusher": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        209,
+        219
+      ],
+      "ThrashDamage": [
+        9,
+        12,
+        14
+      ],
+      "EnlargingStrikeDamage": [
+        9,
+        4,
+        4
+      ],
+      "BugStingDamage": [
+        9,
+        6,
+        7
+      ],
+      "AdaptStrengthGain": [
+        9,
+        2,
+        3
+      ],
+      "GuardedStrikeDamage": [
+        9,
+        12,
+        14
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        209,
+        219,
+        219
+      ],
+      "MaxInitialHp": [
+        209,
+        219,
+        219
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "ThrashDamage"
+      },
+      "2": {
+        "damage": "BugStingDamage"
+      },
+      "3": {
+        "strength": "AdaptStrengthGain"
+      },
+      "4": {
+        "damage": "ThrashDamage"
+      }
+    }
+  },
+  "Rocket": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        199,
+        209
+      ],
+      "TargetingReticleDamage": [
+        9,
+        3,
+        4
+      ],
+      "PrecisionBeamDamage": [
+        9,
+        18,
+        20
+      ],
+      "LaserDamage": [
+        9,
+        31,
+        35
+      ],
+      "ChargeUpStrengthGain": [
+        9,
+        2,
+        3
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        199,
+        209,
+        209
+      ],
+      "MaxInitialHp": [
+        199,
+        209,
+        209
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "TargetingReticleDamage"
+      },
+      "1": {
+        "damage": "PrecisionBeamDamage"
+      },
+      "2": {
+        "strength": "ChargeUpStrengthGain"
+      },
+      "3": {
+        "damage": "LaserDamage"
+      }
+    }
+  },
+  "KinFollower": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        58,
+        62
+      ],
+      "MaxInitialHp": [
+        8,
+        59,
+        63
+      ],
+      "QuickSlashDamage": [
+        9,
+        5,
+        5
+      ],
+      "BoomerangDamage": [
+        9,
+        2,
+        2
+      ],
+      "DanceStrength": [
+        9,
+        2,
+        3
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        58,
+        62,
+        62
+      ],
+      "MaxInitialHp": [
+        59,
+        63,
+        63
+      ]
+    },
+    "moves": {
+      "2": {
+        "strength": "DanceStrength"
+      }
+    }
+  },
+  "KinPriest": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        190,
+        199
+      ],
+      "OrbOfFrailtyDamage": [
+        9,
+        8,
+        9
+      ],
+      "OrbOfWeaknessDamage": [
+        9,
+        8,
+        9
+      ],
+      "BeamDamage": [
+        9,
+        3,
+        3
+      ],
+      "RitualStrength": [
+        9,
+        2,
+        3
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        190,
+        199,
+        199
+      ],
+      "MaxInitialHp": [
+        190,
+        199,
+        199
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "OrbOfFrailtyDamage"
+      },
+      "1": {
+        "damage": "OrbOfFrailtyDamage"
+      },
+      "3": {
+        "strength": "RitualStrength"
+      }
+    }
+  },
+  "TheInsatiable": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        321,
+        341
+      ],
+      "ThrashDamage": [
+        9,
+        8,
+        9
+      ],
+      "BiteDamage": [
+        9,
+        28,
+        31
+      ],
+      "SalivateStrength": [
+        9,
+        2,
+        3
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        321,
+        341,
+        341
+      ],
+      "MaxInitialHp": [
+        321,
+        341,
+        341
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "ThrashDamage"
+      },
+      "2": {
+        "damage": "BiteDamage"
+      },
+      "3": {
+        "strength": "SalivateStrength"
+      },
+      "4": {
+        "damage": "ThrashDamage"
+      }
+    }
+  },
+  "Queen": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        400,
+        419
+      ],
+      "OffWithYourHeadDamage": [
+        9,
+        3,
+        4
+      ],
+      "ExecutionDamage": [
+        9,
+        15,
+        18
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        400,
+        419,
+        419
+      ],
+      "MaxInitialHp": [
+        400,
+        419,
+        419
+      ]
+    },
+    "moves": {
+      "3": {
+        "damage": "OffWithYourHeadDamage"
+      },
+      "4": {
+        "damage": "ExecutionDamage"
+      }
+    }
+  },
+  "TorchHeadAmalgam": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        199,
+        211
+      ],
+      "StrongTackleDamage": [
+        9,
+        26,
+        32
+      ],
+      "TackleDamage": [
+        9,
+        18,
+        22
+      ],
+      "WeakTackleDamage": [
+        9,
+        14,
+        16
+      ],
+      "SoulBeamDamage": [
+        9,
+        8,
+        8
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        199,
+        211,
+        211
+      ],
+      "MaxInitialHp": [
+        199,
+        211,
+        211
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "StrongTackleDamage"
+      },
+      "1": {
+        "damage": "TackleDamage"
+      },
+      "3": {
+        "damage": "WeakTackleDamage"
+      },
+      "4": {
+        "damage": "WeakTackleDamage"
+      }
+    }
+  },
+  "TestSubject": {
+    "values": {
+      "FirstFormHp": [
+        8,
+        100,
+        111
+      ],
+      "SecondFormHp": [
+        8,
+        200,
+        212
+      ],
+      "ThirdFormHp": [
+        8,
+        300,
+        313
+      ],
+      "EnrageAmount": [
+        9,
+        2,
+        3
+      ],
+      "BiteDamage": [
+        9,
+        20,
+        22
+      ],
+      "SkullBashDamage": [
+        9,
+        14,
+        16
+      ],
+      "MultiClawDamage": [
+        9,
+        10,
+        11
+      ],
+      "Phase3LacerateDamage": [
+        9,
+        10,
+        11
+      ],
+      "BurningGrowlBurnCount": [
+        9,
+        3,
+        5
+      ],
+      "BurningGrowlStrengthGain": [
+        9,
+        2,
+        3
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        100,
+        111,
+        111
+      ],
+      "MaxInitialHp": [
+        100,
+        111,
+        111
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "BiteDamage"
+      },
+      "1": {
+        "damage": "SkullBashDamage"
+      },
+      "2": {
+        "damage": "MultiClawDamage"
+      },
+      "3": {
+        "damage": "MultiClawDamage"
+      },
+      "5": {
+        "strength": "BurningGrowlStrengthGain",
+        "count": "BurningGrowlBurnCount"
+      }
+    }
+  },
+  "WaterfallGiant": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        240,
+        250
+      ],
+      "SiphonHeal": [
+        8,
+        10,
+        15
+      ],
+      "PressurizeAmount": [
+        9,
+        15,
+        20
+      ],
+      "StompDamage": [
+        9,
+        15,
+        16
+      ],
+      "RamDamage": [
+        9,
+        10,
+        11
+      ],
+      "PressureUpDamage": [
+        9,
+        13,
+        14
+      ],
+      "BasePressureGunDamage": [
+        9,
+        20,
+        23
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        240,
+        250,
+        250
+      ],
+      "MaxInitialHp": [
+        240,
+        250,
+        250
+      ]
+    },
+    "moves": {
+      "0": {
+        "steam": "PressurizeAmount"
+      },
+      "1": {
+        "damage": "StompDamage"
+      },
+      "2": {
+        "damage": "RamDamage"
+      },
+      "3": {
+        "healPerPlayer": "SiphonHeal"
+      },
+      "4": {
+        "damage": "BasePressureGunDamage"
+      },
+      "5": {
+        "damage": "PressureUpDamage"
+      }
+    }
+  },
+  "Aeonglass": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        512,
+        535
+      ],
+      "EbbDamage": [
+        9,
+        22,
+        26
+      ],
+      "EyeLasersDamage": [
+        9,
+        11,
+        12
+      ],
+      "IncreasingIntensityBaseStrength": [
+        9,
+        3,
+        4
+      ],
+      "WitherAmount": [
+        9,
+        1,
+        2
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        512,
+        535,
+        535
+      ],
+      "MaxInitialHp": [
+        512,
+        535,
+        535
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "EbbDamage"
+      },
+      "1": {
+        "damage": "EyeLasersDamage"
+      }
+    }
+  },
+  "SoulFysh": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        211,
+        221
+      ],
+      "DeGasDamage": [
+        9,
+        16,
+        18
+      ],
+      "ScreamDamage": [
+        9,
+        13,
+        15
+      ],
+      "GazeDamage": [
+        9,
+        7,
+        8
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        211,
+        221,
+        221
+      ],
+      "MaxInitialHp": [
+        211,
+        221,
+        221
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "DeGasDamage"
+      },
+      "2": {
+        "damage": "GazeDamage"
+      },
+      "4": {
+        "damage": "ScreamDamage"
+      }
+    }
+  },
+  "LagavulinMatriarch": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        222,
+        233
+      ],
+      "SlashDamage": [
+        9,
+        19,
+        21
+      ],
+      "Slash2Damage": [
+        9,
+        12,
+        14
+      ],
+      "Slash2Block": [
+        8,
+        12,
+        14
+      ],
+      "DisembowelDamage": [
+        9,
+        9,
+        10
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        222,
+        233,
+        233
+      ],
+      "MaxInitialHp": [
+        222,
+        233,
+        233
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "SlashDamage"
+      },
+      "2": {
+        "damage": "DisembowelDamage"
+      },
+      "3": {
+        "damage": "Slash2Damage",
+        "block": "Slash2Block"
+      }
+    }
+  },
+  "CeremonialBeast": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        252,
+        262
+      ],
+      "PlowAmount": [
+        9,
+        150,
+        160
+      ],
+      "PlowDamage": [
+        9,
+        18,
+        20
+      ],
+      "StompDamage": [
+        9,
+        15,
+        17
+      ],
+      "CrushDamage": [
+        9,
+        17,
+        19
+      ],
+      "CrushStrength": [
+        9,
+        3,
+        4
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        252,
+        262,
+        262
+      ],
+      "MaxInitialHp": [
+        252,
+        262,
+        262
+      ]
+    },
+    "moves": {
+      "0": {
+        "plow": "PlowAmount"
+      },
+      "1": {
+        "damage": "PlowDamage"
+      },
+      "4": {
+        "damage": "StompDamage"
+      },
+      "5": {
+        "damage": "CrushDamage",
+        "strength": "CrushStrength"
+      }
+    }
+  },
+  "FossilStalker": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        51,
+        54
+      ],
+      "MaxInitialHp": [
+        8,
+        53,
+        56
+      ],
+      "TackleDamage": [
+        9,
+        9,
+        11
+      ],
+      "LatchDamage": [
+        9,
+        12,
+        14
+      ],
+      "LashDamage": [
+        9,
+        3,
+        4
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        51,
+        54,
+        54
+      ],
+      "MaxInitialHp": [
+        53,
+        56,
+        56
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "TackleDamage"
+      },
+      "1": {
+        "damage": "LatchDamage"
+      },
+      "2": {
+        "damage": "LashDamage"
+      }
+    }
+  },
+  "SpinyToad": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        116,
+        121
+      ],
+      "MaxInitialHp": [
+        8,
+        119,
+        124
+      ],
+      "LashDamage": [
+        9,
+        17,
+        19
+      ],
+      "ExplosionDamage": [
+        9,
+        23,
+        25
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        116,
+        121,
+        121
+      ],
+      "MaxInitialHp": [
+        119,
+        124,
+        124
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "ExplosionDamage"
+      },
+      "2": {
+        "damage": "LashDamage"
+      }
+    }
+  },
+  "Tunneler": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        87,
+        92
+      ],
+      "BiteDamage": [
+        9,
+        13,
+        15
+      ],
+      "BlockGain": [
+        8,
+        32,
+        37
+      ],
+      "BelowDamage": [
+        9,
+        23,
+        26
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        87,
+        92,
+        92
+      ],
+      "MaxInitialHp": [
+        87,
+        92,
+        92
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "BiteDamage"
+      },
+      "1": {
+        "block": "BlockGain"
+      },
+      "2": {
+        "damage": "BelowDamage"
+      }
+    }
+  },
+  "Exoskeleton": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        24,
+        26
+      ],
+      "MaxInitialHp": [
+        8,
+        28,
+        30
+      ],
+      "SkitterRepeats": [
+        9,
+        3,
+        4
+      ],
+      "MandiblesDamage": [
+        9,
+        8,
+        9
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        24,
+        26,
+        26
+      ],
+      "MaxInitialHp": [
+        28,
+        30,
+        30
+      ]
+    },
+    "moves": {
+      "0": {
+        "hits": "SkitterRepeats"
+      },
+      "1": {
+        "damage": "MandiblesDamage"
+      }
+    }
+  },
+  "Toadpole": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        21,
+        22
+      ],
+      "MaxInitialHp": [
+        8,
+        25,
+        26
+      ],
+      "SpikeSpitDamage": [
+        9,
+        3,
+        4
+      ],
+      "WhirlDamage": [
+        9,
+        7,
+        8
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        21,
+        22,
+        22
+      ],
+      "MaxInitialHp": [
+        25,
+        26,
+        26
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "SpikeSpitDamage"
+      },
+      "1": {
+        "damage": "WhirlDamage"
+      }
+    }
+  },
+  "SludgeSpinner": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        37,
+        41
+      ],
+      "MaxInitialHp": [
+        8,
+        39,
+        42
+      ],
+      "OilSprayDamage": [
+        9,
+        8,
+        9
+      ],
+      "SlamDamage": [
+        9,
+        11,
+        12
+      ],
+      "RageDamage": [
+        9,
+        6,
+        7
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        37,
+        41,
+        41
+      ],
+      "MaxInitialHp": [
+        39,
+        42,
+        42
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "OilSprayDamage"
+      },
+      "1": {
+        "damage": "SlamDamage"
+      },
+      "2": {
+        "damage": "RageDamage"
+      }
+    }
+  },
+  "Axebot": {
+    "values": {
+      "BootUpBlock": [
+        9,
+        10,
+        15
+      ],
+      "OneTwoDamage": [
+        9,
+        10,
+        11
+      ],
+      "BootUpStrGain": [
+        9,
+        3,
+        4
+      ],
+      "HammerUppercutDamage": [
+        9,
+        14,
+        18
+      ],
+      "MinInitialHp": [
+        8,
+        70,
+        76
+      ],
+      "MaxInitialHp": [
+        8,
+        78,
+        86
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        70,
+        76,
+        76
+      ],
+      "MaxInitialHp": [
+        78,
+        86,
+        86
+      ]
+    },
+    "moves": {
+      "0": {
+        "block": "BootUpBlock"
+      },
+      "1": {
+        "damage": "OneTwoDamage"
+      },
+      "2": {
+        "damage": "HammerUppercutDamage"
+      }
+    }
+  },
+  "PhrogParasite": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        61,
+        66
+      ],
+      "MaxInitialHp": [
+        8,
+        64,
+        68
+      ],
+      "LashDamage": [
+        9,
+        4,
+        5
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        61,
+        66,
+        66
+      ],
+      "MaxInitialHp": [
+        64,
+        68,
+        68
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "LashDamage"
+      }
+    }
+  },
+  "Wriggler": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        17,
+        18
+      ],
+      "MaxInitialHp": [
+        8,
+        21,
+        22
+      ],
+      "BiteDamage": [
+        9,
+        6,
+        7
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        17,
+        18,
+        18
+      ],
+      "MaxInitialHp": [
+        21,
+        22,
+        22
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "BiteDamage"
+      }
+    }
+  },
+  "FlailKnight": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        101,
+        108
+      ],
+      "FlailDamage": [
+        9,
+        9,
+        10
+      ],
+      "RamDamage": [
+        9,
+        15,
+        17
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        101,
+        108,
+        108
+      ],
+      "MaxInitialHp": [
+        101,
+        108,
+        108
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "FlailDamage"
+      },
+      "2": {
+        "damage": "RamDamage"
+      }
+    }
+  },
+  "SpectralKnight": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        93,
+        97
+      ],
+      "SoulSlashDamage": [
+        9,
+        15,
+        17
+      ],
+      "SoulFlameDamage": [
+        9,
+        3,
+        4
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        93,
+        97,
+        97
+      ],
+      "MaxInitialHp": [
+        93,
+        97,
+        97
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "SoulSlashDamage"
+      },
+      "2": {
+        "damage": "SoulFlameDamage"
+      }
+    }
+  },
+  "MagiKnight": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        82,
+        89
+      ],
+      "PowerShieldDamage": [
+        9,
+        6,
+        7
+      ],
+      "PowerShieldBlock": [
+        8,
+        5,
+        9
+      ],
+      "SpearDamage": [
+        9,
+        10,
+        11
+      ],
+      "BombDamage": [
+        9,
+        35,
+        40
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        82,
+        89,
+        89
+      ],
+      "MaxInitialHp": [
+        82,
+        89,
+        89
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "PowerShieldDamage",
+        "block": "PowerShieldBlock"
+      },
+      "2": {
+        "damage": "SpearDamage"
+      },
+      "3": {
+        "block": "PowerShieldBlock"
+      },
+      "4": {
+        "damage": "BombDamage"
+      }
+    }
+  },
+  "VineShambler": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        61,
+        64
+      ],
+      "GraspingVinesDamage": [
+        9,
+        8,
+        9
+      ],
+      "SwipeDamage": [
+        9,
+        6,
+        7
+      ],
+      "ChompDamage": [
+        9,
+        16,
+        18
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        61,
+        64,
+        64
+      ],
+      "MaxInitialHp": [
+        61,
+        64,
+        64
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "GraspingVinesDamage"
+      },
+      "1": {
+        "damage": "SwipeDamage"
+      },
+      "2": {
+        "damage": "ChompDamage"
+      }
+    }
+  },
+  "MysteriousKnight": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        101,
+        108
+      ],
+      "FlailDamage": [
+        9,
+        9,
+        10
+      ],
+      "RamDamage": [
+        9,
+        15,
+        17
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        101,
+        108,
+        108
+      ],
+      "MaxInitialHp": [
+        101,
+        108,
+        108
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "FlailDamage"
+      },
+      "2": {
+        "damage": "RamDamage"
+      }
+    }
+  },
+  "Mawler": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        72,
+        76
+      ],
+      "RipAndTearDamage": [
+        9,
+        14,
+        16
+      ],
+      "ClawDamage": [
+        9,
+        4,
+        5
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        72,
+        76,
+        76
+      ],
+      "MaxInitialHp": [
+        72,
+        76,
+        76
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "RipAndTearDamage"
+      },
+      "2": {
+        "damage": "ClawDamage"
+      }
+    }
+  },
+  "SnappingJaxfruit": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        31,
+        34
+      ],
+      "MaxInitialHp": [
+        8,
+        33,
+        36
+      ],
+      "EnergyDamage": [
+        9,
+        3,
+        4
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        31,
+        34,
+        34
+      ],
+      "MaxInitialHp": [
+        33,
+        36,
+        36
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "EnergyDamage"
+      }
+    }
+  },
+  "CorpseSlug": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        25,
+        27
+      ],
+      "MaxInitialHp": [
+        8,
+        27,
+        29
+      ],
+      "GlompDamage": [
+        9,
+        8,
+        9
+      ],
+      "RavenousStr": [
+        9,
+        4,
+        5
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        25,
+        27,
+        27
+      ],
+      "MaxInitialHp": [
+        27,
+        29,
+        29
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "GlompDamage"
+      }
+    }
+  },
+  "DampCultist": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        51,
+        52
+      ],
+      "MaxInitialHp": [
+        8,
+        53,
+        54
+      ],
+      "DarkStrikeDamage": [
+        9,
+        1,
+        3
+      ],
+      "IncantationAmount": [
+        9,
+        5,
+        6
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        51,
+        52,
+        52
+      ],
+      "MaxInitialHp": [
+        53,
+        54,
+        54
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "DarkStrikeDamage"
+      },
+      "0": {
+        "ritual": "IncantationAmount"
+      }
+    }
+  },
+  "LeafSlimeM": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        32,
+        33
+      ],
+      "MaxInitialHp": [
+        8,
+        35,
+        36
+      ],
+      "ClumpDamage": [
+        9,
+        8,
+        9
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        32,
+        33,
+        33
+      ],
+      "MaxInitialHp": [
+        35,
+        36,
+        36
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "ClumpDamage"
+      }
+    }
+  },
+  "TwigSlimeM": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        26,
+        27
+      ],
+      "MaxInitialHp": [
+        8,
+        28,
+        29
+      ],
+      "ClumpDamage": [
+        9,
+        11,
+        12
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        26,
+        27,
+        27
+      ],
+      "MaxInitialHp": [
+        28,
+        29,
+        29
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "ClumpDamage"
+      }
+    }
+  },
+  "ShrinkerBeetle": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        38,
+        40
+      ],
+      "MaxInitialHp": [
+        8,
+        40,
+        42
+      ],
+      "ChompDamage": [
+        9,
+        7,
+        8
+      ],
+      "StompDamage": [
+        9,
+        13,
+        14
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        38,
+        40,
+        40
+      ],
+      "MaxInitialHp": [
+        40,
+        42,
+        42
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "ChompDamage"
+      },
+      "2": {
+        "damage": "StompDamage"
+      }
+    }
+  },
+  "CubexConstruct": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        65,
+        70
+      ],
+      "BlastDamage": [
+        9,
+        7,
+        8
+      ],
+      "ExpelDamage": [
+        9,
+        5,
+        6
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        65,
+        70,
+        70
+      ],
+      "MaxInitialHp": [
+        65,
+        70,
+        70
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "BlastDamage"
+      },
+      "2": {
+        "damage": "BlastDamage"
+      },
+      "3": {
+        "damage": "ExpelDamage"
+      }
+    }
+  },
+  "Flyconid": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        47,
+        51
+      ],
+      "MaxInitialHp": [
+        8,
+        49,
+        53
+      ],
+      "SmashDamage": [
+        9,
+        11,
+        12
+      ],
+      "SporeDamage": [
+        9,
+        8,
+        9
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        47,
+        51,
+        51
+      ],
+      "MaxInitialHp": [
+        49,
+        53,
+        53
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "SporeDamage"
+      },
+      "2": {
+        "damage": "SmashDamage"
+      }
+    }
+  },
+  "PunchConstruct": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        55,
+        60
+      ],
+      "StrongPunchDamage": [
+        9,
+        14,
+        16
+      ],
+      "FastPunchDamage": [
+        9,
+        5,
+        6
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        55,
+        60,
+        60
+      ],
+      "MaxInitialHp": [
+        55,
+        60,
+        60
+      ]
+    },
+    "moves": {
+      "1": {
+        "damage": "FastPunchDamage"
+      },
+      "2": {
+        "damage": "StrongPunchDamage"
+      }
+    }
+  },
+  "ScrollOfBiting": {
+    "values": {
+      "MinInitialHp": [
+        8,
+        30,
+        33
+      ],
+      "MaxInitialHp": [
+        8,
+        37,
+        39
+      ],
+      "ChompDamage": [
+        9,
+        14,
+        16
+      ],
+      "ChewDamage": [
+        9,
+        5,
+        6
+      ]
+    },
+    "hp": {
+      "MinInitialHp": [
+        30,
+        33,
+        33
+      ],
+      "MaxInitialHp": [
+        37,
+        39,
+        39
+      ]
+    },
+    "moves": {
+      "0": {
+        "damage": "ChompDamage"
+      },
+      "1": {
+        "damage": "ChewDamage"
+      }
+    }
+  }
+}

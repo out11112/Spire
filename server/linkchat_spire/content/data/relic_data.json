@@ -1,0 +1,1194 @@
+{
+  "Akabeko": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "AlchemicalCoffer": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "AmethystAubergine": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "Anchor": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "ArcaneScroll": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "ArchaicTooth": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "ArtOfWar": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "Astrolabe": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "BagOfMarbles": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "BagOfPreparation": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "BeatingRemnant": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "BeautifulBracelet": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "Bellows": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "BeltBuckle": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "BigHat": {
+    "rarity": "rare",
+    "pool": "necrobinder"
+  },
+  "BigMushroom": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "BiiigHug": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "BingBong": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "BlackBlood": {
+    "rarity": "starter",
+    "pool": "special"
+  },
+  "BlackStar": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "BlessedAntler": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "BloodSoakedRose": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "BloodVial": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "BoneFlute": {
+    "rarity": "common",
+    "pool": "necrobinder"
+  },
+  "BoneTea": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "BookOfFiveRings": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "BookRepairKnife": {
+    "rarity": "uncommon",
+    "pool": "necrobinder"
+  },
+  "Bookmark": {
+    "rarity": "rare",
+    "pool": "necrobinder"
+  },
+  "BoomingConch": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "BoundPhylactery": {
+    "rarity": "starter",
+    "pool": "necrobinder"
+  },
+  "BowlerHat": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "Bread": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "BrilliantScarf": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "Brimstone": {
+    "rarity": "shop",
+    "pool": "ironclad"
+  },
+  "BronzeScales": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "BurningBlood": {
+    "rarity": "starter",
+    "pool": "ironclad"
+  },
+  "BurningSticks": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "Byrdpip": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "CallingBell": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "Candelabra": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "CaptainsWheel": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "Cauldron": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "CentennialPuzzle": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "Chandelier": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "CharonsAshes": {
+    "rarity": "rare",
+    "pool": "ironclad"
+  },
+  "ChemicalX": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "ChoicesParadox": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "ChosenCheese": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "Circlet": {
+    "rarity": "none",
+    "pool": "special"
+  },
+  "Claws": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "CloakClasp": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "CrackedCore": {
+    "rarity": "starter",
+    "pool": "defect"
+  },
+  "Crossbow": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "CursedPearl": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "DarkstonePeriapt": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "DataDisk": {
+    "rarity": "common",
+    "pool": "defect"
+  },
+  "DaughterOfTheWind": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "DelicateFrond": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "DemonTongue": {
+    "rarity": "rare",
+    "pool": "ironclad"
+  },
+  "DiamondDiadem": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "DingyRug": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "DistinguishedCape": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "DivineDestiny": {
+    "rarity": "starter",
+    "pool": "special"
+  },
+  "DivineRight": {
+    "rarity": "starter",
+    "pool": "regent"
+  },
+  "DollysMirror": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "DowsingRod": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "DragonFruit": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "DreamCatcher": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "Driftwood": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "DustyTome": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "Ectoplasm": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "ElectricShrymp": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "EmberTea": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "EmotionChip": {
+    "rarity": "rare",
+    "pool": "defect"
+  },
+  "EmptyCage": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "EternalFeather": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "FakeAnchor": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "FakeBloodVial": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "FakeHappyFlower": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "FakeLeesWaffle": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "FakeMango": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "FakeMerchantsRug": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "FakeOrichalcum": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "FakeSneckoEye": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "FakeStrikeDummy": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "FakeVenerableTeaSet": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "FencingManual": {
+    "rarity": "common",
+    "pool": "regent"
+  },
+  "FestivePopper": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "Fiddle": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "FishingRod": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "ForgottenSoul": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "FragrantMushroom": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "FresnelLens": {
+    "rarity": "event",
+    "pool": "shared"
+  },
+  "FrozenEgg": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "FuneraryMask": {
+    "rarity": "uncommon",
+    "pool": "necrobinder"
+  },
+  "FurCoat": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "GalacticDust": {
+    "rarity": "uncommon",
+    "pool": "regent"
+  },
+  "GamblingChip": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "GamePiece": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "GhostSeed": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "Girya": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "GlassEye": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "Glitter": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "GnarledHammer": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "GoldPlatedCables": {
+    "rarity": "uncommon",
+    "pool": "defect"
+  },
+  "GoldenCompass": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "GoldenPearl": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "Gorget": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "GremlinHorn": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "HandDrill": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "HappyFlower": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "HeftyTablet": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "HelicalDart": {
+    "rarity": "rare",
+    "pool": "silent"
+  },
+  "HistoryCourse": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "HornCleat": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "IceCream": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "InfusedCore": {
+    "rarity": "starter",
+    "pool": "special"
+  },
+  "IntimidatingHelmet": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "IronClub": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "IvoryTile": {
+    "rarity": "rare",
+    "pool": "necrobinder"
+  },
+  "JeweledMask": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "JewelryBox": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "JossPaper": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "JuzuBracelet": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "Kaleidoscope": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "Kifuda": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "Kunai": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "Kusarigama": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "Lantern": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "LargeCapsule": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "LastingCandy": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "LavaLamp": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "LavaRock": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "LeadPaperweight": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "LeafyPoultice": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "LeesWaffle": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "LetterOpener": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "LizardTail": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "LoomingFruit": {
+    "rarity": "ancient",
+    "pool": "shared"
+  },
+  "LordsParasol": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "LostCoffer": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "LostWisp": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "LuckyFysh": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "LunarPastry": {
+    "rarity": "rare",
+    "pool": "regent"
+  },
+  "Mango": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "MassiveScroll": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "MawBank": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "MealTicket": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "MeatCleaver": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "MeatOnTheBone": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "MembershipCard": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "MercuryHourglass": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "PowerCell": {
+    "rarity": "rare",
+    "pool": "defect"
+  },
+  "Metronome": {
+    "rarity": "rare",
+    "pool": "defect"
+  },
+  "MiniRegent": {
+    "rarity": "rare",
+    "pool": "regent"
+  },
+  "MiniatureCannon": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "MiniatureTent": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "MoltenEgg": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "MrStruggles": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "MummifiedHand": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "MusicBox": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "MysticLighter": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "NeowsBones": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "NeowsSacrifice": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "NeowsTalisman": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "NeowsTorment": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "NewLeaf": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "NinjaScroll": {
+    "rarity": "shop",
+    "pool": "silent"
+  },
+  "Nunchaku": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "NutritiousOyster": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "NutritiousSoup": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "OddlySmoothStone": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "OldCoin": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "OrangeDough": {
+    "rarity": "rare",
+    "pool": "regent"
+  },
+  "Orichalcum": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "OrnamentalFan": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "Orrery": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "PaelsBlood": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "PaelsClaw": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "PaelsEye": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "PaelsFlesh": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "PaelsGrowth": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "PaelsHorn": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "PaelsLegion": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "PaelsTears": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "PaelsTooth": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "PaelsWing": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "PandorasBox": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "Pantograph": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "PaperKrane": {
+    "rarity": "rare",
+    "pool": "silent"
+  },
+  "PaperPhrog": {
+    "rarity": "uncommon",
+    "pool": "ironclad"
+  },
+  "ParryingShield": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "Pear": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "PenNib": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "Pendulum": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "Permafrost": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "PetrifiedToad": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "PhialHolster": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "PhilosophersStone": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "PhylacteryUnbound": {
+    "rarity": "starter",
+    "pool": "special"
+  },
+  "Planisphere": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "Pocketwatch": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "PollinousCore": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "Pomander": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "PotionBelt": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "PrayerWheel": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "PrecariousShears": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "PreciseScissors": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "PreservedFog": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "PrismaticGem": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "PumpkinCandle": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "PunchDagger": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "RadiantPearl": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "RainbowRing": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "RazorTooth": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "RedMask": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "RedSkull": {
+    "rarity": "common",
+    "pool": "ironclad"
+  },
+  "RegalPillow": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "Regalite": {
+    "rarity": "uncommon",
+    "pool": "regent"
+  },
+  "ReptileTrinket": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "RingOfTheDrake": {
+    "rarity": "starter",
+    "pool": "special"
+  },
+  "RingOfTheSnake": {
+    "rarity": "starter",
+    "pool": "silent"
+  },
+  "RingingTriangle": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "RippleBasin": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "RoyalPoison": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "RoyalStamp": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "RuinedHelmet": {
+    "rarity": "rare",
+    "pool": "ironclad"
+  },
+  "RunicCapacitor": {
+    "rarity": "shop",
+    "pool": "defect"
+  },
+  "RunicPyramid": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "Sai": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "SandCastle": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "ScreamingFlagon": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "ScrollBoxes": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "SeaGlass": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "SealOfGold": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "SelfFormingClay": {
+    "rarity": "uncommon",
+    "pool": "ironclad"
+  },
+  "SereTalon": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "Shovel": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "Shuriken": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "SignetRing": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "SilkenTress": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "SilverCrucible": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "SlingOfCourage": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "SmallCapsule": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "SneckoEye": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "SneckoSkull": {
+    "rarity": "common",
+    "pool": "silent"
+  },
+  "Sozu": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "SparklingRouge": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "SpikedGauntlets": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "StoneCalendar": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "StoneCracker": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "StoneHumidifier": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "Storybook": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "Strawberry": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "StrikeDummy": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "SturdyClamp": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "SwordOfJade": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "SwordOfStone": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "SymbioticVirus": {
+    "rarity": "uncommon",
+    "pool": "defect"
+  },
+  "TanxsWhistle": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "TeaOfDiscourtesy": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "TheAbacus": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "TheBoot": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "TheCourier": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "ThrowingAxe": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "Tingsha": {
+    "rarity": "uncommon",
+    "pool": "silent"
+  },
+  "TinyMailbox": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "ToastyMittens": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "Toolbox": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "TouchOfOrobas": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "ToughBandages": {
+    "rarity": "rare",
+    "pool": "silent"
+  },
+  "ToxicEgg": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "ToyBox": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "TriBoomerang": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "TungstenRod": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "TuningFork": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "TwistedFunnel": {
+    "rarity": "uncommon",
+    "pool": "silent"
+  },
+  "UnceasingTop": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "UndyingSigil": {
+    "rarity": "shop",
+    "pool": "necrobinder"
+  },
+  "UnsettlingLamp": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "Vajra": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "Vambrace": {
+    "rarity": "uncommon",
+    "pool": "shared"
+  },
+  "VelvetChoker": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "VenerableTeaSet": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "VeryHotCocoa": {
+    "rarity": "ancient",
+    "pool": "shared"
+  },
+  "VexingPuzzlebox": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "VitruvianMinion": {
+    "rarity": "shop",
+    "pool": "regent"
+  },
+  "WarHammer": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "WarPaint": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "Whetstone": {
+    "rarity": "common",
+    "pool": "shared"
+  },
+  "WhisperingEarring": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "WhiteBeastStatue": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "WhiteStar": {
+    "rarity": "rare",
+    "pool": "shared"
+  },
+  "WingCharm": {
+    "rarity": "shop",
+    "pool": "shared"
+  },
+  "WingedBoots": {
+    "rarity": "ancient",
+    "pool": "special"
+  },
+  "WongoCustomerAppreciationBadge": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "WongosMysteryTicket": {
+    "rarity": "event",
+    "pool": "special"
+  },
+  "YummyCookie": {
+    "rarity": "ancient",
+    "pool": "special"
+  }
+}

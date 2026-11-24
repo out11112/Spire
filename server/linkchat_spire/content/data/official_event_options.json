@@ -1,0 +1,914 @@
+{
+  "ABYSSAL_BATHS": {
+    "ALL.EXIT_BATHS": {
+      "title": "离开浴场"
+    },
+    "ALL.LINGER": {
+      "description": "获得[green]{MaxHp}[/green]点最大生命值。受到[red]{Damage}[/red]点伤害。",
+      "title": "沉溺"
+    },
+    "INITIAL.ABSTAIN": {
+      "description": "回复[green]{Heal}[/green]点生命。",
+      "title": "敬而远之"
+    },
+    "INITIAL.IMMERSE": {
+      "description": "获得[green]{MaxHp}[/green]点最大生命值。受到[red]{Damage}[/red]点伤害。",
+      "title": "投身其中"
+    }
+  },
+  "AMALGAMATOR": {
+    "INITIAL.COMBINE_DEFENDS": {
+      "description": "移除[blue]2[/blue]张[gold]防御[/gold]。并将一张[gold]{Card2}[/gold]添加至你的[gold]牌组[/gold]。",
+      "title": "融合防御"
+    },
+    "INITIAL.COMBINE_STRIKES": {
+      "description": "移除[blue]2[/blue]张[gold]打击[/gold]。并将一张[gold]{Card1}[/gold]添加至你的[gold]牌组[/gold]。",
+      "title": "融合打击"
+    }
+  },
+  "AROMA_OF_CHAOS": {
+    "INITIAL.LET_GO": {
+      "description": "[gold]变化[/gold]你[gold]牌组[/gold]中的一张牌。",
+      "title": "放任自流"
+    },
+    "INITIAL.MAINTAIN_CONTROL": {
+      "description": "[gold]升级[/gold]你[gold]牌组[/gold]中的一张牌。",
+      "title": "维持理智"
+    }
+  },
+  "BATTLEWORN_DUMMY": {
+    "INITIAL.SETTING_1": {
+      "description": "与一个[blue]{Setting1Hp}[/blue]点生命值的假人战斗。随机获取[blue]1[/blue]瓶[gold]药水[/gold]。",
+      "title": "第1档"
+    },
+    "INITIAL.SETTING_2": {
+      "description": "与一个[blue]{Setting2Hp}[/blue]点生命值的假人战斗。随机[gold]升级[/gold][blue]2[/blue]张牌。",
+      "title": "第2档"
+    },
+    "INITIAL.SETTING_3": {
+      "description": "与一个[blue]{Setting3Hp}[/blue]点生命值的假人战斗。获取一件随机[gold]遗物[/gold]。",
+      "title": "第3档"
+    }
+  },
+  "BRAIN_LEECH": {
+    "INITIAL.RIP": {
+      "description": "失去[red]{RipHpLoss}[/red]点生命值。获得一次无色卡牌奖励。",
+      "title": "把它扯下来"
+    },
+    "INITIAL.SHARE_KNOWLEDGE": {
+      "description": "从[blue]{FromCardChoiceCount}[/blue]张随机牌中选择[blue]{CardChoiceCount}[/blue]张加入你的[gold]牌组[/gold]。",
+      "title": "分享知识"
+    }
+  },
+  "BUGSLAYER": {
+    "INITIAL.EXTERMINATION": {
+      "description": "将一张[gold]{Card1}[/gold]添加至你的[gold]牌组[/gold]。",
+      "title": "学习杀灭的技巧"
+    },
+    "INITIAL.SQUASH": {
+      "description": "将一张[gold]{Card2}[/gold]添加至你的[gold]牌组[/gold]",
+      "title": "学习压扁的技巧"
+    }
+  },
+  "BYRDONIS_NEST": {
+    "INITIAL.EAT": {
+      "description": "获得[blue]{MaxHp}[/blue]点最大生命值。",
+      "title": "吃掉这颗蛋"
+    },
+    "INITIAL.TAKE": {
+      "description": "将一张[gold]{Card}[/gold]加入你的[gold]牌组[/gold]。",
+      "title": "带走这颗蛋"
+    }
+  },
+  "COLORFUL_PHILOSOPHERS": {
+    "INITIAL.DEFECT": {
+      "description": "获得[blue]{Cards}[/blue]张故障机器人的卡牌。",
+      "title": "蓝色"
+    },
+    "INITIAL.EQUALITY": {
+      "description": "获得[gold]棱镜碎片[/gold]。",
+      "title": "平等"
+    },
+    "INITIAL.IRONCLAD": {
+      "description": "获得[blue]{Cards}[/blue]张铁甲战士的卡牌。",
+      "title": "红色"
+    },
+    "INITIAL.NECROBINDER": {
+      "description": "获得[blue]{Cards}[/blue]张亡灵契约师的卡牌。",
+      "title": "粉色"
+    },
+    "INITIAL.REGENT": {
+      "description": "获得[blue]{Cards}[/blue]张储君的卡牌。",
+      "title": "橙色"
+    },
+    "INITIAL.SILENT": {
+      "description": "获得[blue]{Cards}[/blue]张静默猎手的卡牌。",
+      "title": "绿色"
+    }
+  },
+  "COLOSSAL_FLOWER": {
+    "INITIAL.EXTRACT_CURRENT_PRIZE_1": {
+      "description": "获得[blue]{Prize1}[/blue][gold]金币[/gold]。",
+      "title": "采集花蜜"
+    },
+    "INITIAL.REACH_DEEPER_1": {
+      "description": "深入。失去[red]5[/red]点生命值",
+      "title": "深入探索"
+    },
+    "REACH_DEEPER_1.EXTRACT_CURRENT_PRIZE_2": {
+      "description": "获得[blue]{Prize2}[/blue][gold]金币[/gold]。",
+      "title": "采集花蜜"
+    },
+    "REACH_DEEPER_1.REACH_DEEPER_2": {
+      "description": "再深入一点。失去[red]6[/red]点生命值。",
+      "title": "深入探索"
+    },
+    "REACH_DEEPER_2.EXTRACT_INSTEAD": {
+      "description": "获得[blue]{Prize3}[/blue][gold]金币[/gold]。",
+      "title": "采集花蜜"
+    },
+    "REACH_DEEPER_2.POLLINOUS_CORE": {
+      "description": "失去[red]7[/red]点生命值。 获得[gold]花粉核心[/gold]。",
+      "title": "抵达核心"
+    }
+  },
+  "CRYSTAL_SPHERE": {
+    "INITIAL.PAYMENT_PLAN": {
+      "description": "获得一张[red]{CurseTitle}[/red]。[purple]占卜[/purple][blue]{PaymentPlanCount}[/blue]次。",
+      "title": "分期付款"
+    },
+    "INITIAL.UNCOVER_FUTURE": {
+      "description": "支付[red]{UncoverFutureCost}[/red][gold]金币[/gold]。[purple]占卜[/purple][blue]{UncoverFutureProphesizeCount}[/blue]次。",
+      "title": "揭幕未来"
+    }
+  },
+  "DENSE_VEGETATION": {
+    "INITIAL.REST": {
+      "description": "回复[green]{Heal}[/green]点生命。[red]进入战斗[/red]。",
+      "title": "休息"
+    },
+    "INITIAL.TRUDGE_ON": {
+      "description": "获得[blue]{Gold}[/blue] [gold]金币[/gold]。失去[red]{HpLoss}[/red]点生命。",
+      "title": "坚持跋涉"
+    },
+    "REST.FIGHT": {
+      "title": "战！"
+    }
+  },
+  "DOLL_ROOM": {
+    "INITIAL.EXAMINE": {
+      "description": "失去[red]{ExamineHpLoss}[/red]点生命。从[blue]3[/blue]尊[gold]玩偶遗物[/gold]中选择[blue]1[/blue]尊带走。",
+      "title": "仔细检查然后挑选最好的那个"
+    },
+    "INITIAL.RANDOM": {
+      "description": "获取一尊[gold]玩偶遗物[/gold]。",
+      "title": "随机拿走一尊"
+    },
+    "INITIAL.TAKE_SOME_TIME": {
+      "description": "失去[red]{TakeTimeHpLoss}[/red]点生命。从[blue]2[/blue]尊[gold]玩偶遗物[/gold]中选择[blue]1[/blue]尊带走。",
+      "title": "花点时间慢慢来"
+    },
+    "TAKE.TAKE": {
+      "description": "获得[gold]{RelicName}[/gold]。"
+    }
+  },
+  "DOORS_OF_LIGHT_AND_DARK": {
+    "INITIAL.DARK": {
+      "description": "从你的[gold]牌组[/gold]中选择[blue]1[/blue]张牌移除。",
+      "title": "暗之门"
+    },
+    "INITIAL.LIGHT": {
+      "description": "随机[gold]升级[/gold][blue]{Cards}[/blue]张牌。",
+      "title": "光之门"
+    }
+  },
+  "DROWNING_BEACON": {
+    "INITIAL.BOTTLE": {
+      "description": "获得一瓶[aqua]{Potion}[/aqua]。",
+      "title": "装瓶"
+    },
+    "INITIAL.CLIMB": {
+      "description": "获得[gold]{Relic}[/gold]。失去[red]{HpLoss}[/red]点最大生命。",
+      "title": "攀爬"
+    }
+  },
+  "ENDLESS_CONVEYOR": {
+    "ALL.CAVIAR": {
+      "description": "支付[red]{Gold}[/red][gold]金币[/gold]。获得[green]{CaviarMaxHp}[/green]点最大生命。接着吃！",
+      "title": "从传送带上拿份鱼子酱"
+    },
+    "ALL.CLAM_ROLL": {
+      "description": "支付[red]{Gold}[/red][gold]金币[/gold]。回复[green]{ClamRollHeal}[/green]点生命值。接着吃！",
+      "title": "从传送带上拿份蚌肉卷"
+    },
+    "ALL.FRIED_EEL": {
+      "description": "支付[red]{Gold}[/red][gold]金币[/gold]。将一张随机无色牌添加到你的[gold]牌组[/gold]。接着吃！",
+      "title": "从传送带上拿份炸鳗鱼"
+    },
+    "ALL.GOLDEN_FYSH": {
+      "description": "[green]幸运头奖！[/green]获得[blue]{GoldenFyshGold}[/blue][gold]金币[/gold]。",
+      "title": "从传送带上拿份金色异鱼"
+    },
+    "ALL.JELLY_LIVER": {
+      "description": "支付[red]{Gold}[/red][gold]金币[/gold]。[gold]变化[/gold]一张牌。接着吃！",
+      "title": "从传送带上拿份果冻肝"
+    },
+    "ALL.LOCKED": {
+      "description": "你还能吃得下更多，但是兜里没[gold]金币[/gold]了。",
+      "title": "破产了"
+    },
+    "ALL.SEAPUNK_SALAD": {
+      "description": "支付[red]{Gold}[/red][gold]金币[/gold]。将一张[gold]疯狂进食[/gold]添加到你的[gold]牌组[/gold]。 接着吃！",
+      "title": "从传送带上拿份海洋混混沙拉"
+    },
+    "ALL.SPICY_SNAPPY": {
+      "description": "支付[red]{Gold}[/red][gold]金币[/gold]。 随机[gold]升级[/gold]一张牌。接着吃！",
+      "title": "从传送带上拿份香辣薄脆"
+    },
+    "ALL.SUSPICIOUS_CONDIMENT": {
+      "description": "支付[red]{Gold}[/red][gold]金币[/gold]。随机获得一瓶[gold]药水[/gold]。接着吃！",
+      "title": "从传送带上拿份可疑调味料"
+    },
+    "GRAB_SOMETHING_OFF_THE_BELT.LEAVE": {
+      "title": "离开"
+    },
+    "INITIAL.OBSERVE_CHEF": {
+      "description": "从[gold]牌组[/gold]中随机[gold]升级[/gold]一张牌。",
+      "title": "观察主厨"
+    }
+  },
+  "FIELD_OF_MAN_SIZED_HOLES": {
+    "INITIAL.ENTER_YOUR_HOLE": {
+      "description": "为一张牌[gold]附魔[/gold]：[purple]{Enchantment}[/purple]。",
+      "title": "进入你的洞"
+    },
+    "INITIAL.RESIST": {
+      "description": "从你的[gold]牌组[/gold]中移除[blue]{Cards}[/blue]张牌。将一张[red]{ResistCurse}[/red]添加到你的[gold]牌组[/gold]中。",
+      "title": "抵抗诱惑"
+    }
+  },
+  "GRAVE_OF_THE_FORGOTTEN": {
+    "INITIAL.ACCEPT": {
+      "description": "获得[gold]{Relic}[/gold]。",
+      "title": "接受这颗{Relic}"
+    },
+    "INITIAL.CONFRONT": {
+      "description": "将一张[red]{Curse}[/red]到你的[gold]牌组[/gold]。 为一张带有[gold]消耗[/gold]的牌[gold]附魔[/gold]：[purple]{Enchantment}[/purple]。",
+      "title": "让它直面真相"
+    },
+    "INITIAL.CONFRONT_LOCKED": {
+      "description": "你没有可被[purple]附魔[/purple]的带有[gold]消耗[/gold]的卡牌。",
+      "title": "已锁定"
+    }
+  },
+  "HUNGRY_FOR_MUSHROOMS": {
+    "INITIAL.BIG_MUSHROOM": {
+      "title": "大蘑菇"
+    },
+    "INITIAL.FRAGRANT_MUSHROOM": {
+      "title": "芳香蘑菇"
+    }
+  },
+  "INFESTED_AUTOMATON": {
+    "INITIAL.STUDY": {
+      "description": "随机获得一张[gold]能力牌[/gold]。",
+      "title": "学习"
+    },
+    "INITIAL.TOUCH_CORE": {
+      "description": "随机获得一张[gold]耗能为0的牌[/gold]。",
+      "title": "触碰核心"
+    }
+  },
+  "JUNGLE_MAZE_ADVENTURE": {
+    "INITIAL.JOIN_FORCES": {
+      "description": "获得[blue]{JoinForcesGold}[/blue][gold]金币[/gold]。",
+      "title": "结伴同行"
+    },
+    "INITIAL.SOLO_QUEST": {
+      "description": "获得[blue]{SoloGold}[/blue][gold]金币[/gold]。失去[red]{SoloHp}[/red]点生命。",
+      "title": "独自挑战"
+    }
+  },
+  "LOST_WISP": {
+    "INITIAL.CLAIM": {
+      "description": "将一张[red]{Curse}[/red]添加到你的[gold]牌组[/gold]。获得[gold]{Relic}[/gold]。",
+      "title": "抓住这团鬼火"
+    },
+    "INITIAL.CLAIM_LOCKED": {
+      "description": "你的最大生命值太低了。",
+      "title": "已锁定"
+    },
+    "INITIAL.SEARCH": {
+      "description": "获得[blue]{Gold}[/blue][gold]金币[/gold]。",
+      "title": "搜索附近的区域"
+    }
+  },
+  "LUMINOUS_CHOIR": {
+    "INITIAL.OFFER_TRIBUTE": {
+      "description": "支付[red]{Gold}[/red][gold]金币[/gold]。获取一件随机[gold]遗物[/gold]。",
+      "title": "供奉"
+    },
+    "INITIAL.OFFER_TRIBUTE_LOCKED": {
+      "description": "需要[blue]{Gold}[/blue][gold]金币[/gold]。",
+      "title": "已锁定"
+    },
+    "INITIAL.REACH_INTO_THE_FLESH": {
+      "description": "从你的[gold]牌组[/gold]移除[blue]2[/blue]张牌。将一张[red]孢子心灵[/red]添加到你的[gold]牌组[/gold]。",
+      "title": "探入菌肉"
+    }
+  },
+  "MOCK_EVENT_MODEL": {
+    "INITIAL.TEST": {
+      "description": "这是一个样品选项。",
+      "title": "样品选项"
+    }
+  },
+  "MORPHIC_GROVE": {
+    "INITIAL.GROUP": {
+      "description": "{IsMultiplayer:所有人|}失去[red]所有[/red][gold]金币[/gold]。[gold]变化[/gold][blue]2[/blue]张牌。",
+      "title": "大群变形灵"
+    },
+    "INITIAL.LONER": {
+      "description": "获得[green]{MaxHp}[/green]点最大生命。",
+      "title": "落单变形灵"
+    }
+  },
+  "POTION_COURIER": {
+    "INITIAL.GRAB_POTIONS": {
+      "description": "获得[blue]{FoulPotions}[/blue]瓶[gold]污浊药水[/gold]。",
+      "title": "拿走这批药水"
+    },
+    "INITIAL.RANSACK": {
+      "description": "获得[blue]1[/blue]瓶随机[gold]罕见药水[/gold]。",
+      "title": "洗劫"
+    }
+  },
+  "PUNCH_OFF": {
+    "INITIAL.I_CAN_TAKE_THEM": {
+      "description": "和它们战斗以得到[gold]更好的奖励[/gold]。",
+      "title": "我能打两个"
+    },
+    "INITIAL.NAB": {
+      "description": "将一张[red]受伤[/red]加入到你的[gold]牌组[/gold]。获得一件随机[gold]遗物[/gold]。",
+      "title": "顺走"
+    },
+    "I_CAN_TAKE_THEM.FIGHT": {
+      "title": "战斗"
+    }
+  },
+  "RANWID_THE_ELDER": {
+    "INITIAL.GOLD": {
+      "description": "获得一件随机[gold]遗物[/gold]。",
+      "title": "给他{Gold}金币"
+    },
+    "INITIAL.POTION": {
+      "description": "获得一件随机[gold]遗物[/gold]。",
+      "title": "给他{Potion}"
+    },
+    "INITIAL.POTION_LOCKED": {
+      "description": "你没有任何可以给他的药水。",
+      "title": "锁定"
+    },
+    "INITIAL.RELIC": {
+      "description": "获得[blue]2[/blue]件随机[gold]遗物[/gold]。",
+      "title": "给他{Relic}"
+    },
+    "INITIAL.RELIC_LOCKED": {
+      "description": "你没有任何可以给他的遗物。",
+      "title": "锁定"
+    }
+  },
+  "REFLECTIONS": {
+    "INITIAL.SHATTER": {
+      "description": "复制你的整个[gold]牌组[/gold]。获得[purple]霉运[/purple]。",
+      "title": "打碎"
+    },
+    "INITIAL.TOUCH_A_MIRROR": {
+      "description": "[red]降级[/red][blue]2[/blue]张随机卡牌。[green]升级[/green][blue]4[/blue]张随机卡牌。",
+      "title": "触碰镜子"
+    }
+  },
+  "RELIC_TRADER": {
+    "INITIAL.BOTTOM": {
+      "description": "用[gold]{BottomRelicOwned}[/gold]换[gold]{BottomRelicNew}[/gold]。",
+      "title": "拿下面那件"
+    },
+    "INITIAL.MIDDLE": {
+      "description": "用[gold]{MiddleRelicOwned}[/gold]换[gold]{MiddleRelicNew}[/gold]。",
+      "title": "拿中间这件"
+    },
+    "INITIAL.TOP": {
+      "description": "用[gold]{TopRelicOwned}[/gold]换[gold]{TopRelicNew}[/gold]。",
+      "title": "拿上面那件"
+    }
+  },
+  "ROOM_FULL_OF_CHEESE": {
+    "INITIAL.GORGE": {
+      "description": "从[blue]8[/blue]张随机[gold]普通[/gold]牌中选择[blue]2[/blue]张加入到你的[gold]牌组[/gold]。",
+      "title": "大快朵颐"
+    },
+    "INITIAL.SEARCH": {
+      "description": "失去[red]{Damage}[/red]点生命，获得[gold]天选芝士[/gold]。",
+      "title": "仔细翻找"
+    }
+  },
+  "ROUND_TEA_PARTY": {
+    "INITIAL.ENJOY_TEA": {
+      "description": "获得[red]{Relic}[/red]。[green]回复全部生命。[/green]",
+      "title": "喝杯好茶"
+    },
+    "INITIAL.PICK_FIGHT": {
+      "description": "失去[red]{Damage}[/red]点生命。获得一件随机[gold]遗物[/gold]。",
+      "title": "挑事斗殴"
+    },
+    "PICK_FIGHT.CONTINUE_FIGHT": {
+      "title": "继续"
+    }
+  },
+  "SAPPHIRE_SEED": {
+    "INITIAL.EAT": {
+      "description": "回复[green]{Heal}[/green]生命。[gold]升级[/gold]你[gold]牌组[/gold]中的一张牌。",
+      "title": "吃下"
+    },
+    "INITIAL.PLANT": {
+      "description": "给一张牌[gold]附魔[/gold]：[purple]{Enchantment}[/purple]。",
+      "title": "种植培育"
+    }
+  },
+  "SELF_HELP_BOOK": {
+    "INITIAL.NO_OPTIONS": {
+      "description": "你没有任何可以附魔的牌。",
+      "title": "离开"
+    },
+    "INITIAL.READ_ENTIRE_BOOK": {
+      "description": "选择一张能力牌[gold]附魔[/gold]：[purple]{Enchantment3}[/purple][blue]{Enchantment3Amount}[/blue]。",
+      "title": "读完整本书"
+    },
+    "INITIAL.READ_ENTIRE_BOOK_LOCKED": {
+      "description": "你没有任何可以[gold]附魔[/gold]的能力牌。",
+      "title": "锁定"
+    },
+    "INITIAL.READ_PASSAGE": {
+      "description": "选择一张技能牌[gold]附魔[/gold]：[purple]{Enchantment2}[/purple][blue]{Enchantment2Amount}[/blue]。",
+      "title": "随便读个一段"
+    },
+    "INITIAL.READ_PASSAGE_LOCKED": {
+      "description": "你没有任何可以[gold]附魔[/gold]的技能牌。",
+      "title": "锁定"
+    },
+    "INITIAL.READ_THE_BACK": {
+      "description": "选择一张攻击牌[gold]附魔[/gold]：[purple]{Enchantment1}[/purple][blue]{Enchantment1Amount}[/blue]。",
+      "title": "读下封底"
+    },
+    "INITIAL.READ_THE_BACK_LOCKED": {
+      "description": "你没有任何可以[gold]附魔[/gold]的攻击牌。",
+      "title": "锁定"
+    }
+  },
+  "SLIPPERY_BRIDGE": {
+    "HOLD_ON_0.HOLD_ON_1": {
+      "description": "失去[red]{HpLoss}[/red]点生命。重新随机上方选项中的卡牌。",
+      "title": "再撑一会"
+    },
+    "HOLD_ON_1.HOLD_ON_2": {
+      "description": "失去[red]{HpLoss}[/red]点生命。重新随机上方选项中的卡牌。",
+      "title": "再撑一会"
+    },
+    "HOLD_ON_2.HOLD_ON_3": {
+      "description": "失去[red]{HpLoss}[/red]点生命。重新随机上方选项中的卡牌。",
+      "title": "再撑一会"
+    },
+    "HOLD_ON_3.HOLD_ON_4": {
+      "description": "失去[red]{HpLoss}[/red]点生命。重新随机上方选项中的卡牌。",
+      "title": "再撑一会"
+    },
+    "HOLD_ON_4.HOLD_ON_5": {
+      "description": "失去[red]{HpLoss}[/red]点生命。重新随机上方选项中的卡牌。",
+      "title": "再撑一会"
+    },
+    "HOLD_ON_5.HOLD_ON_6": {
+      "description": "失去[red]{HpLoss}[/red]点生命。重新随机上方选项中的卡牌。",
+      "title": "再撑一会"
+    },
+    "HOLD_ON_6.HOLD_ON_LOOP": {
+      "description": "失去[red]{HpLoss}[/red]点生命。重新随机上方选项中的卡牌。",
+      "title": "再撑一会"
+    },
+    "HOLD_ON_LOOP.HOLD_ON_LOOP": {
+      "description": "失去[red]{HpLoss}[/red]点生命。重新随机上方选项中的卡牌。",
+      "title": "再撑一会"
+    },
+    "INITIAL.HOLD_ON_0": {
+      "description": "失去[red]{HpLoss}[/red]点生命。重新随机上方选项中的卡牌。",
+      "title": "再撑一会"
+    },
+    "INITIAL.OVERCOME": {
+      "description": "[red]{RandomCard}[/red]将从你的[gold]牌组[/gold]中被移除。",
+      "title": "跨越"
+    }
+  },
+  "SPIRALING_WHIRLPOOL": {
+    "INITIAL.DRINK": {
+      "description": "回复[green]{Heal}[/green]点生命。",
+      "title": "饮用"
+    },
+    "INITIAL.OBSERVE": {
+      "description": "为一张基础“[gold]打击[/gold]”或“[gold]防御[/gold]”[gold]附魔[/gold]：[purple]涡旋[/purple]。",
+      "title": "观察"
+    },
+    "INITIAL.REACH_IN": {
+      "description": "获得一件随机[gold]遗物[/gold]。 Add [red]Writhe[/red]到你的[gold]牌组[/gold]。",
+      "title": "Reach In"
+    }
+  },
+  "SPIRIT_GRAFTER": {
+    "INITIAL.LET_IT_IN": {
+      "description": "回复[green]{LetItInHealAmount}[/green]点生命。将一张[gold]羽化[/gold]添加到你的[gold]牌组[/gold]。",
+      "title": "接纳"
+    },
+    "INITIAL.REJECTION": {
+      "description": "失去[red]{RejectionHpLoss}[/red]点生命。[gold]升级[/gold]一张牌。",
+      "title": "拒绝"
+    }
+  },
+  "STONE_OF_ALL_TIME": {
+    "INITIAL.LIFT": {
+      "description": "失去[red]{DrinkRandomPotion}[/red]。获得[blue]{DrinkMaxHpGain}[/blue]最大生命。",
+      "title": "喝药抬起"
+    },
+    "INITIAL.LIFT_LOCKED": {
+      "description": "需要药水。",
+      "title": "锁定"
+    },
+    "INITIAL.PUSH": {
+      "description": "失去[red]{PushHpLoss}[/red]点生命。[gold]附魔[/gold]一张攻击牌：[purple]活力[/purple][blue]{PushVigorousAmount}[/blue]。",
+      "title": "用力去推"
+    },
+    "INITIAL.PUSH_LOCKED": {
+      "description": "需要一张攻击牌。",
+      "title": "锁定"
+    }
+  },
+  "SUNKEN_STATUE": {
+    "INITIAL.DIVE_INTO_WATER": {
+      "description": "获得[blue]{Gold}[/blue][gold]金币[/gold]。失去[red]{HpLoss}[/red]点生命.",
+      "title": "潜水"
+    },
+    "INITIAL.GRAB_SWORD": {
+      "description": "获得[gold]{Relic}[/gold]。",
+      "title": "拿起石剑"
+    }
+  },
+  "SUNKEN_TREASURY": {
+    "INITIAL.FIRST_CHEST": {
+      "description": "获得[blue]{SmallChestGold}[/blue][gold]金币[/gold]。",
+      "title": "第一个箱子"
+    },
+    "INITIAL.SECOND_CHEST": {
+      "description": "获得[blue]{LargeChestGold}[/blue][gold]金币[/gold]。得到[red]贪婪[/red]。",
+      "title": "第二个箱子"
+    }
+  },
+  "SYMBIOTE": {
+    "INITIAL.APPROACH": {
+      "description": "将一张攻击牌[gold]附魔[/gold]：[purple]{Enchantment}[/purple]。",
+      "title": "靠近"
+    },
+    "INITIAL.APPROACH_LOCKED": {
+      "description": "你没有可以附魔的攻击牌。",
+      "title": "锁定"
+    },
+    "INITIAL.KILL_WITH_FIRE": {
+      "description": "选择一张牌[gold]变化[/gold]。",
+      "title": "用火烧杀"
+    }
+  },
+  "TABLET_OF_TRUTH": {
+    "DECIPHER.GIVE_UP": {
+      "description": "停止阅读文字，就这样离开。",
+      "title": "放弃"
+    },
+    "DECIPHER_1.DECIPHER": {
+      "description": "失去[red]{DecipherMaxHpLoss}[/red]点最大生命。随机[gold]升级[/gold]一张牌。",
+      "title": "继续解读"
+    },
+    "DECIPHER_2.DECIPHER": {
+      "description": "失去[red]{DecipherMaxHpLoss}[/red]点最大生命。随机[gold]升级[/gold]一张牌。",
+      "title": "继续解读"
+    },
+    "DECIPHER_3.DECIPHER": {
+      "description": "失去[red]{DecipherMaxHpLoss}[/red]点最大生命。随机[gold]升级[/gold]一张牌。",
+      "title": "继 续 解 读"
+    },
+    "DECIPHER_4.DECIPHER": {
+      "description": "失去[red]{DecipherMaxHpLoss}[/red]点最大生命。[gold]升级[/gold]你的所有卡牌。",
+      "title": "抛下一切"
+    },
+    "INITIAL.DECIPHER_1": {
+      "description": "失去[red]{DecipherMaxHpLoss}[/red]点最大生命。随机[gold]升级[/gold]一张牌。",
+      "title": "解读"
+    },
+    "INITIAL.SMASH": {
+      "description": "回复[green]{SmashHPGain}[/green]点生命。",
+      "title": "砸碎"
+    }
+  },
+  "TEA_MASTER": {
+    "INITIAL.BONE_TEA": {
+      "description": "支付[red]{BoneTeaCost}[/red][gold]金币[/gold]。{BoneTeaDescription}",
+      "title": "骨茶"
+    },
+    "INITIAL.BONE_TEA_LOCKED": {
+      "description": "需要[blue]{BoneTeaCost}[/blue][gold]金币[/gold]。",
+      "title": "锁定"
+    },
+    "INITIAL.EMBER_TEA": {
+      "description": "支付[red]{EmberTeaCost}[/red][gold]金币[/gold]。{EmberTeaDescription}",
+      "title": "余烬茶"
+    },
+    "INITIAL.EMBER_TEA_LOCKED": {
+      "description": "需要[blue]{EmberTeaCost}[/blue][gold]金币[/gold]。",
+      "title": "锁定"
+    },
+    "INITIAL.TEA_OF_DISCOURTESY": {
+      "description": "{TeaOfDiscourtesyDescription}",
+      "title": "无礼之茶"
+    }
+  },
+  "THE_FUTURE_OF_POTIONS": {
+    "INITIAL.POTION": {
+      "description": "失去[gold]{Potion}[/gold]。获得一张[gold]升级过[/gold]的[gold]{Rarity}{Type}牌[/gold]。",
+      "title": "放入{Rarity}药水"
+    }
+  },
+  "THE_LANTERN_KEY": {
+    "DONE.RETURN_THE_KEY": {
+      "description": "陌生人感谢了你的帮助，给了你许多奖赏。"
+    },
+    "INITIAL.KEEP_THE_KEY": {
+      "description": "战斗来取得钥匙。",
+      "title": "留下钥匙"
+    },
+    "INITIAL.RETURN_THE_KEY": {
+      "description": "获得[blue]{Gold}[/blue][gold]金币[/gold]。",
+      "title": "交还钥匙"
+    },
+    "KEEP_THE_KEY.FIGHT": {
+      "title": "战斗"
+    }
+  },
+  "THE_LEGENDS_WERE_TRUE": {
+    "INITIAL.NAB_THE_MAP": {
+      "description": "获得[gold]藏宝图[/gold]。",
+      "title": "顺走地图"
+    },
+    "INITIAL.SLOWLY_FIND_AN_EXIT": {
+      "description": "失去[red]{Damage}[/red]点生命。获得[blue]1[/blue]瓶随机[gold]药水[/gold]。",
+      "title": "耐心寻找出口"
+    }
+  },
+  "THIS_OR_THAT": {
+    "INITIAL.ORNATE": {
+      "description": "将一张[red]{Curse}[/red]加入你的[gold]牌组[/gold]。获得一件随机[gold]遗物[/gold]。",
+      "title": "那个"
+    },
+    "INITIAL.PLAIN": {
+      "description": "失去[red]{HpLoss}[/red]点生命。获得[blue]{Gold}[/blue][gold]金币[/gold]。",
+      "title": "这个"
+    }
+  },
+  "TINKER_TIME": {
+    "CHOOSE_CARD_TYPE.ATTACK": {
+      "description": "制作一张攻击牌。",
+      "title": "武器"
+    },
+    "CHOOSE_CARD_TYPE.POWER": {
+      "description": "制作一张能力牌。",
+      "title": "装置"
+    },
+    "CHOOSE_CARD_TYPE.SKILL": {
+      "description": "制作一张技能牌。",
+      "title": "护具"
+    },
+    "CHOOSE_RIDER.CHAOS": {
+      "description": "将一张随机牌放入你的[gold]手牌[/gold]。这张牌在本回合可以免费打出。",
+      "title": "混沌"
+    },
+    "CHOOSE_RIDER.CHOKING": {
+      "description": "本回合，你每打出一张牌，该敌人失去[blue]{ChokingDamage}[/blue]点生命。",
+      "title": "扼杀"
+    },
+    "CHOOSE_RIDER.CURIOUS": {
+      "description": "能力牌的耗能减少[blue]{CuriousReduction}[/blue]{energyPrefix:energyIcons(1)}。",
+      "title": "好奇"
+    },
+    "CHOOSE_RIDER.ENERGIZED": {
+      "description": "获得{EnergizedEnergy:energyIcons()}。",
+      "title": "充能"
+    },
+    "CHOOSE_RIDER.EXPERTISE": {
+      "description": "获得[blue]{ExpertiseStrength}[/blue]点[gold]力量[/gold]。获得[blue]{ExpertiseDexterity}[/blue]点[gold]敏捷[/gold]。",
+      "title": "专长"
+    },
+    "CHOOSE_RIDER.IMPROVEMENT": {
+      "description": "在战斗结束时，随机[gold]升级[/gold]一张牌。",
+      "title": "精进"
+    },
+    "CHOOSE_RIDER.SAPPING": {
+      "description": "给予[blue]{SappingWeak}[/blue]层[gold]虚弱[/gold]。给予[blue]{SappingVulnerable}[/blue]层[gold]易伤[/gold]。",
+      "title": "削弱"
+    },
+    "CHOOSE_RIDER.VIOLENCE": {
+      "description": "额外命中[blue]2[/blue]次。",
+      "title": "暴力"
+    },
+    "CHOOSE_RIDER.WISDOM": {
+      "description": "抽[blue]{WisdomCards}[/blue]张牌。",
+      "title": "智慧"
+    },
+    "INITIAL.CHOOSE_CARD_TYPE": {
+      "description": "制作一张定制卡牌加入你的[gold]牌组[/gold]。",
+      "title": "接受"
+    }
+  },
+  "TRASH_HEAP": {
+    "INITIAL.DIVE_IN": {
+      "description": "失去[red]{HpLoss}[/red]点生命。获得一件被遗忘的旧日[gold]遗物[/gold]。",
+      "title": "扎进垃圾堆"
+    },
+    "INITIAL.GRAB": {
+      "description": "获得[blue]{Gold}[/blue][gold]金币[/gold]。获得一张被遗忘的旧日卡牌。",
+      "title": "随便拿点垃圾"
+    }
+  },
+  "TRIAL": {
+    "INITIAL.ACCEPT": {
+      "description": "担当今天的判决者",
+      "title": "接受"
+    },
+    "INITIAL.REJECT": {
+      "description": "[red]拒绝是不被允许的。[/red]",
+      "title": "拒绝"
+    },
+    "MERCHANT.GUILTY": {
+      "description": "将一张[red]悔恨[/red]加入你的[gold]牌组[/gold]。获得[blue]2[/blue]件随机[gold]遗物[/gold]。",
+      "title": "判决：有罪"
+    },
+    "MERCHANT.INNOCENT": {
+      "description": "将一张[red]羞耻[/red]加入你的[gold]牌组[/gold]。[gold]升级[/gold][blue]2[/blue]张牌。",
+      "title": "判决：无罪"
+    },
+    "NOBLE.GUILTY": {
+      "description": "回复[green]10[/green]点生命。",
+      "title": "判决：有罪"
+    },
+    "NOBLE.INNOCENT": {
+      "description": "将一张[red]悔恨[/red]加入你的[gold]牌组[/gold]。获得[blue]300[/blue][gold]金币[/gold]。",
+      "title": "判决：无罪"
+    },
+    "NONDESCRIPT.GUILTY": {
+      "description": "将一张[red]疑虑[/red]加入你的[gold]牌组[/gold]。获得[blue]2[/blue]次卡牌奖励。",
+      "title": "判决：有罪"
+    },
+    "NONDESCRIPT.INNOCENT": {
+      "description": "将一张[red]疑虑[/red]加入你的[gold]牌组[/gold]。[gold]变化[/gold][blue]2[/blue]张牌。",
+      "title": "判决：无罪"
+    },
+    "REJECT.ACCEPT": {
+      "description": "放弃。担当今天的判决者。",
+      "title": "接受"
+    },
+    "REJECT.DOUBLE_DOWN": {
+      "description": "[red]直面致命的后果。[/red]",
+      "title": "坚持到底"
+    }
+  },
+  "UNREST_SITE": {
+    "INITIAL.KILL": {
+      "description": "失去[red]{MaxHpLoss}[/red]点最大生命。获得一件随机[gold]遗物[/gold]。",
+      "title": "杀死树木"
+    },
+    "INITIAL.REST": {
+      "description": "[green]回复全部生命值。[/green]获得[red]睡眠不佳[/red]。",
+      "title": "就这样休息"
+    }
+  },
+  "WAR_HISTORIAN_REPY": {
+    "INITIAL.UNLOCK_CAGE": {
+      "description": "失去[gold]灯火钥匙[/gold]。获得[gold]历史课[/gold]。",
+      "title": "打开笼子"
+    },
+    "INITIAL.UNLOCK_CHEST": {
+      "description": "失去[gold]灯火钥匙[/gold]。获得[blue]2[/blue]瓶随机[gold]药水[/gold]和[blue]2[/blue]件随机[gold]遗物[/gold]。",
+      "title": "打开宝箱"
+    }
+  },
+  "WATERLOGGED_SCRIPTORIUM": {
+    "INITIAL.BLOODY_INK": {
+      "description": "获得[green]6[/green]点最大生命。",
+      "title": "血液墨水"
+    },
+    "INITIAL.PRICKLY_SPONGE": {
+      "description": "支付[red]{PricklySpongeGold}[/red][gold]金币[/gold]。给[blue]{Cards}[/blue]张牌[gold]附魔[/gold]：[purple]稳定[/purple]。",
+      "title": "扎手海绵"
+    },
+    "INITIAL.PRICKLY_SPONGE_LOCKED": {
+      "description": "需要[blue]{PricklySpongeGold}[/blue][gold]金币[/gold]。",
+      "title": "锁定"
+    },
+    "INITIAL.TENTACLE_QUILL": {
+      "description": "支付[red]{Gold}[/red][gold]金币[/gold]。给一张牌[gold]附魔[/gold]：[purple]稳定[/purple]。",
+      "title": "触手羽毛笔"
+    },
+    "INITIAL.TENTACLE_QUILL_LOCKED": {
+      "description": "需要[blue]{Gold}[/blue][gold]金币[/gold]。",
+      "title": "锁定"
+    }
+  },
+  "WELCOME_TO_WONGOS": {
+    "INITIAL.BARGAIN_BIN": {
+      "description": "支付[red]{BargainBinCost}[/red][gold]金币[/gold]。获得[blue]1[/blue]件随机[gold]普通遗物[/gold]。",
+      "title": "旺购的打折货物"
+    },
+    "INITIAL.BARGAIN_BIN_LOCKED": {
+      "description": "需要[blue]{BargainBinCost}[/blue][gold]金币[/gold]。",
+      "title": "锁定"
+    },
+    "INITIAL.FEATURED_ITEM": {
+      "description": "支付[red]{FeaturedItemCost}[/red][gold]金币[/gold]。获得[gold]{RandomRelic}[/gold]。",
+      "title": "旺购的特选商品"
+    },
+    "INITIAL.FEATURED_ITEM_LOCKED": {
+      "description": "需要[blue]{FeaturedItemCost}[/blue][gold]金币[/gold]。",
+      "title": "锁定"
+    },
+    "INITIAL.LEAVE": {
+      "description": "随机[red]降级[/red]一张牌。",
+      "title": "离开"
+    },
+    "INITIAL.MYSTERY_BOX": {
+      "description": "支付[red]{MysteryBoxCost}[/red][gold]金币[/gold]。在[blue]{MysteryBoxCombatCount}[/blue]场战斗后获得[blue]{MysteryBoxRelicCount}[/blue]个随机[gold]遗物[/gold]。",
+      "title": "旺购的神秘盲盒"
+    },
+    "INITIAL.MYSTERY_BOX_LOCKED": {
+      "description": "需要[blue]{MysteryBoxCost}[/blue][gold]金币[/gold]。",
+      "title": "锁定"
+    }
+  },
+  "WELLSPRING": {
+    "INITIAL.BATHE": {
+      "description": "从你的[gold]牌组[/gold]中移除[blue]1[/blue]张牌。将[blue]{BatheCurses}[/blue]张[red]愧疚[/red]添加到你的[gold]牌组[/gold]。",
+      "title": "沐浴"
+    },
+    "INITIAL.BOTTLE": {
+      "description": "获得[blue]1[/blue]瓶随机[gold]药水[/gold]。",
+      "title": "装瓶"
+    }
+  },
+  "WHISPERING_HOLLOW": {
+    "INITIAL.GOLD": {
+      "description": "失去[red]{Gold}[/red][gold]金币[/gold]。获得[blue]2[/blue]瓶随机[gold]药水[/gold]。",
+      "title": "交换金币"
+    },
+    "INITIAL.HUG": {
+      "description": "失去[red]{HpLoss}[/red]点生命。选择一张牌[gold]变化[/gold]。",
+      "title": "拥抱树木"
+    }
+  },
+  "WOOD_CARVINGS": {
+    "INITIAL.BIRD": {
+      "description": "选择[blue]1[/blue]张初始牌[gold]变化[/gold]为[gold]{BirdCard}[/gold]。",
+      "title": "鸟"
+    },
+    "INITIAL.SNAKE": {
+      "description": "给[blue]1[/blue]张牌[gold]附魔[/gold]：[purple]{SnakeEnchantment}[/purple]。",
+      "title": "蛇"
+    },
+    "INITIAL.SNAKE_LOCKED": {
+      "description": "你没有任何牌可以添加附魔：[purple]蛇行[/purple]。",
+      "title": "锁定"
+    },
+    "INITIAL.TORUS": {
+      "description": "选择[blue]1[/blue]张初始牌[gold]变化[/gold]为[gold]{ToricCard}[/gold]。",
+      "title": "圆环"
+    }
+  },
+  "ZEN_WEAVER": {
+    "INITIAL.ARACHNID_ACUPUNCTURE": {
+      "description": "支付[red]{ArachnidAcupunctureCost}[/red][gold]金币[/gold]。从你的[gold]牌组[/gold]中移除[blue]2[/blue]张牌。",
+      "title": "蜘蛛针灸"
+    },
+    "INITIAL.BREATHING_TECHNIQUES": {
+      "description": "支付[red]{BreathingTechniquesCost}[/red][gold]金币[/gold]。将[blue]2[/blue]张[gold]开悟[/gold]加入到你的[gold]牌组[/gold]。",
+      "title": "呼吸技法"
+    },
+    "INITIAL.EMOTIONAL_AWARENESS": {
+      "description": "支付[red]{EmotionalAwarenessCost}[/red][gold]金币[/gold]。从你的[gold]牌组[/gold]中移除[blue]1[/blue]张牌。",
+      "title": "情绪觉察"
+    },
+    "INITIAL.LOCKED": {
+      "description": "[gold]金币[/gold]不足。",
+      "title": "锁定"
+    }
+  }
+}

@@ -1,0 +1,650 @@
+{
+  "acts": {
+    "Overgrowth": {
+      "index": 0,
+      "rooms": 15,
+      "weak": 3,
+      "encounters": [
+        "BygoneEffigyElite",
+        "ByrdonisElite",
+        "CeremonialBeastBoss",
+        "CubexConstructNormal",
+        "FlyconidNormal",
+        "FogmogNormal",
+        "FuzzyWurmCrawlerWeak",
+        "InkletsNormal",
+        "MawlerNormal",
+        "NibbitsNormal",
+        "NibbitsWeak",
+        "OvergrowthCrawlers",
+        "PhrogParasiteElite",
+        "RubyRaidersNormal",
+        "ShrinkerBeetleWeak",
+        "SlimesNormal",
+        "SlimesWeak",
+        "SlitheringStranglerNormal",
+        "SnappingJaxfruitNormal",
+        "TheKinBoss",
+        "VantomBoss",
+        "VineShamblerNormal"
+      ],
+      "events": [
+        "AromaOfChaos",
+        "ByrdonisNest",
+        "DenseVegetation",
+        "JungleMazeAdventure",
+        "LuminousChoir",
+        "MorphicGrove",
+        "SapphireSeed",
+        "SunkenStatue",
+        "TabletOfTruth",
+        "UnrestSite",
+        "Wellspring",
+        "WhisperingHollow",
+        "WoodCarvings"
+      ],
+      "ancients": [
+        "Neow"
+      ]
+    },
+    "Underdocks": {
+      "index": 0,
+      "rooms": 15,
+      "weak": 3,
+      "encounters": [
+        "CorpseSlugsNormal",
+        "CorpseSlugsWeak",
+        "CultistsNormal",
+        "FossilStalkerNormal",
+        "GremlinMercNormal",
+        "HauntedShipNormal",
+        "LagavulinMatriarchBoss",
+        "LivingFogNormal",
+        "PhantasmalGardenersElite",
+        "PunchConstructNormal",
+        "SeapunkNormal",
+        "SeapunkWeak",
+        "SewerClamNormal",
+        "SkulkingColonyElite",
+        "SludgeSpinnerWeak",
+        "SoulFyshBoss",
+        "TerrorEelElite",
+        "ToadpolesWeak",
+        "TwoTailedRatsNormal",
+        "WaterfallGiantBoss"
+      ],
+      "events": [
+        "AbyssalBaths",
+        "DrowningBeacon",
+        "EndlessConveyor",
+        "PunchOff",
+        "SpiralingWhirlpool",
+        "SunkenStatue",
+        "SunkenTreasury",
+        "DoorsOfLightAndDark",
+        "TrashHeap",
+        "WaterloggedScriptorium"
+      ],
+      "ancients": [
+        "Neow"
+      ]
+    },
+    "Hive": {
+      "index": 1,
+      "rooms": 14,
+      "weak": 2,
+      "encounters": [
+        "BowlbugsNormal",
+        "BowlbugsWeak",
+        "ChompersNormal",
+        "DecimillipedeElite",
+        "EntomancerElite",
+        "ExoskeletonsNormal",
+        "ExoskeletonsWeak",
+        "HunterKillerNormal",
+        "InfestedPrismsElite",
+        "KaiserCrabBoss",
+        "KnowledgeDemonBoss",
+        "LouseProgenitorNormal",
+        "MytesNormal",
+        "OvicopterNormal",
+        "SlumberingBeetleNormal",
+        "SpinyToadNormal",
+        "TheInsatiableBoss",
+        "TheObscuraNormal",
+        "ThievingHopperWeak",
+        "TunnelerWeak"
+      ],
+      "events": [
+        "Amalgamator",
+        "Bugslayer",
+        "ColorfulPhilosophers",
+        "ColossalFlower",
+        "FieldOfManSizedHoles",
+        "InfestedAutomaton",
+        "LostWisp",
+        "SpiritGrafter",
+        "TheLanternKey",
+        "ZenWeaver"
+      ],
+      "ancients": [
+        "Orobas",
+        "Pael",
+        "Tezcatara"
+      ]
+    },
+    "Glory": {
+      "index": 2,
+      "rooms": 13,
+      "weak": 2,
+      "encounters": [
+        "AeonglassBoss",
+        "AxebotsNormal",
+        "ConstructMenagerieNormal",
+        "DevotedSculptorWeak",
+        "FabricatorNormal",
+        "FrogKnightNormal",
+        "GlobeHeadNormal",
+        "KnightsElite",
+        "MechaKnightElite",
+        "OwlMagistrateNormal",
+        "QueenBoss",
+        "ScrollsOfBitingNormal",
+        "ScrollsOfBitingWeak",
+        "SlimedBerserkerNormal",
+        "SoulNexusElite",
+        "TestSubjectBoss",
+        "TheLostAndForgottenNormal",
+        "TurretOperatorWeak"
+      ],
+      "events": [
+        "BattlewornDummy",
+        "GraveOfTheForgotten",
+        "HungryForMushrooms",
+        "Reflections",
+        "RoundTeaParty",
+        "Trial",
+        "TinkerTime"
+      ],
+      "ancients": [
+        "Nonupeipe",
+        "Tanx",
+        "Vakuu"
+      ]
+    }
+  },
+  "sharedEvents": [
+    "BrainLeech",
+    "CrystalSphere",
+    "DollRoom",
+    "FakeMerchant",
+    "PotionCourier",
+    "RanwidTheElder",
+    "RelicTrader",
+    "RoomFullOfCheese",
+    "SelfHelpBook",
+    "SlipperyBridge",
+    "StoneOfAllTime",
+    "Symbiote",
+    "TeaMaster",
+    "TheFutureOfPotions",
+    "TheLegendsWereTrue",
+    "ThisOrThat",
+    "WarHistorianRepy",
+    "WelcomeToWongos"
+  ],
+  "encounters": {
+    "AeonglassBoss": {
+      "kind": "boss",
+      "weak": false,
+      "tags": []
+    },
+    "AxebotsNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "BowlbugsNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": [
+        "Workers"
+      ]
+    },
+    "BowlbugsWeak": {
+      "kind": "battle",
+      "weak": true,
+      "tags": [
+        "Workers"
+      ]
+    },
+    "BygoneEffigyElite": {
+      "kind": "elite",
+      "weak": false,
+      "tags": []
+    },
+    "ByrdonisElite": {
+      "kind": "elite",
+      "weak": false,
+      "tags": []
+    },
+    "CeremonialBeastBoss": {
+      "kind": "boss",
+      "weak": false,
+      "tags": []
+    },
+    "ChompersNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": [
+        "Chomper"
+      ]
+    },
+    "ConstructMenagerieNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "CorpseSlugsNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": [
+        "Slugs"
+      ]
+    },
+    "CorpseSlugsWeak": {
+      "kind": "battle",
+      "weak": true,
+      "tags": [
+        "Slugs"
+      ]
+    },
+    "CubexConstructNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "CultistsNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "DecimillipedeElite": {
+      "kind": "elite",
+      "weak": false,
+      "tags": []
+    },
+    "DevotedSculptorWeak": {
+      "kind": "battle",
+      "weak": true,
+      "tags": []
+    },
+    "EntomancerElite": {
+      "kind": "elite",
+      "weak": false,
+      "tags": []
+    },
+    "ExoskeletonsNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": [
+        "Exoskeletons"
+      ]
+    },
+    "ExoskeletonsWeak": {
+      "kind": "battle",
+      "weak": true,
+      "tags": [
+        "Exoskeletons"
+      ]
+    },
+    "FabricatorNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "FlyconidNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": [
+        "Mushroom",
+        "Slimes"
+      ]
+    },
+    "FogmogNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "FossilStalkerNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "FrogKnightNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "FuzzyWurmCrawlerWeak": {
+      "kind": "battle",
+      "weak": true,
+      "tags": [
+        "Crawler"
+      ]
+    },
+    "GlobeHeadNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "GremlinMercNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "HauntedShipNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "HunterKillerNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "InfestedPrismsElite": {
+      "kind": "elite",
+      "weak": false,
+      "tags": []
+    },
+    "InkletsNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "KaiserCrabBoss": {
+      "kind": "boss",
+      "weak": false,
+      "tags": []
+    },
+    "KnightsElite": {
+      "kind": "elite",
+      "weak": false,
+      "tags": [
+        "Knights"
+      ]
+    },
+    "KnowledgeDemonBoss": {
+      "kind": "boss",
+      "weak": false,
+      "tags": []
+    },
+    "LagavulinMatriarchBoss": {
+      "kind": "boss",
+      "weak": false,
+      "tags": []
+    },
+    "LivingFogNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "LouseProgenitorNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "MawlerNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "MechaKnightElite": {
+      "kind": "elite",
+      "weak": false,
+      "tags": []
+    },
+    "MytesNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "NibbitsNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "NibbitsWeak": {
+      "kind": "battle",
+      "weak": true,
+      "tags": [
+        "Nibbit"
+      ]
+    },
+    "OvergrowthCrawlers": {
+      "kind": "battle",
+      "weak": false,
+      "tags": [
+        "Shrinker",
+        "Crawler"
+      ]
+    },
+    "OvicopterNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "OwlMagistrateNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "PhantasmalGardenersElite": {
+      "kind": "elite",
+      "weak": false,
+      "tags": []
+    },
+    "PhrogParasiteElite": {
+      "kind": "elite",
+      "weak": false,
+      "tags": []
+    },
+    "PunchConstructNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "QueenBoss": {
+      "kind": "boss",
+      "weak": false,
+      "tags": []
+    },
+    "RubyRaidersNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "ScrollsOfBitingNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": [
+        "Scrolls"
+      ]
+    },
+    "ScrollsOfBitingWeak": {
+      "kind": "battle",
+      "weak": true,
+      "tags": [
+        "Scrolls"
+      ]
+    },
+    "SeapunkNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": [
+        "Seapunk"
+      ]
+    },
+    "SeapunkWeak": {
+      "kind": "battle",
+      "weak": true,
+      "tags": [
+        "Seapunk"
+      ]
+    },
+    "SewerClamNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "ShrinkerBeetleWeak": {
+      "kind": "battle",
+      "weak": true,
+      "tags": [
+        "Shrinker"
+      ]
+    },
+    "SkulkingColonyElite": {
+      "kind": "elite",
+      "weak": false,
+      "tags": []
+    },
+    "SlimedBerserkerNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "SlimesNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": [
+        "Slimes"
+      ]
+    },
+    "SlimesWeak": {
+      "kind": "battle",
+      "weak": true,
+      "tags": [
+        "Slimes"
+      ]
+    },
+    "SlitheringStranglerNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": [
+        "Jaxfruit",
+        "Slimes"
+      ]
+    },
+    "SludgeSpinnerWeak": {
+      "kind": "battle",
+      "weak": true,
+      "tags": []
+    },
+    "SlumberingBeetleNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": [
+        "Workers"
+      ]
+    },
+    "SnappingJaxfruitNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": [
+        "Mushroom",
+        "Jaxfruit"
+      ]
+    },
+    "SoulFyshBoss": {
+      "kind": "boss",
+      "weak": false,
+      "tags": []
+    },
+    "SoulNexusElite": {
+      "kind": "elite",
+      "weak": false,
+      "tags": []
+    },
+    "SpinyToadNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "TerrorEelElite": {
+      "kind": "elite",
+      "weak": false,
+      "tags": []
+    },
+    "TestSubjectBoss": {
+      "kind": "boss",
+      "weak": false,
+      "tags": []
+    },
+    "TheInsatiableBoss": {
+      "kind": "boss",
+      "weak": false,
+      "tags": []
+    },
+    "TheKinBoss": {
+      "kind": "boss",
+      "weak": false,
+      "tags": []
+    },
+    "TheLostAndForgottenNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "TheObscuraNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "ThievingHopperWeak": {
+      "kind": "battle",
+      "weak": true,
+      "tags": [
+        "Thieves"
+      ]
+    },
+    "ToadpolesWeak": {
+      "kind": "battle",
+      "weak": true,
+      "tags": []
+    },
+    "TunnelerWeak": {
+      "kind": "battle",
+      "weak": true,
+      "tags": [
+        "Burrower"
+      ]
+    },
+    "TurretOperatorWeak": {
+      "kind": "battle",
+      "weak": true,
+      "tags": []
+    },
+    "TwoTailedRatsNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "VantomBoss": {
+      "kind": "boss",
+      "weak": false,
+      "tags": []
+    },
+    "VineShamblerNormal": {
+      "kind": "battle",
+      "weak": false,
+      "tags": []
+    },
+    "WaterfallGiantBoss": {
+      "kind": "boss",
+      "weak": false,
+      "tags": []
+    }
+  }
+}

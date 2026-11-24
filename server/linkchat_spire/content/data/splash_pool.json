@@ -1,0 +1,458 @@
+{
+  "Silent": [
+    {
+      "key": "Assassinate",
+      "constraint": "Any"
+    },
+    {
+      "key": "Backstab",
+      "constraint": "Any"
+    },
+    {
+      "key": "DaggerSpray",
+      "constraint": "Any"
+    },
+    {
+      "key": "DaggerThrow",
+      "constraint": "Any"
+    },
+    {
+      "key": "Dash",
+      "constraint": "Any"
+    },
+    {
+      "key": "EchoingSlash",
+      "constraint": "Any"
+    },
+    {
+      "key": "Finisher",
+      "constraint": "Any"
+    },
+    {
+      "key": "Flechettes",
+      "constraint": "Any"
+    },
+    {
+      "key": "FlickFlack",
+      "constraint": "Any"
+    },
+    {
+      "key": "GrandFinale",
+      "constraint": "Any"
+    },
+    {
+      "key": "LeadingStrike",
+      "constraint": "Any"
+    },
+    {
+      "key": "MementoMori",
+      "constraint": "Any"
+    },
+    {
+      "key": "Murder",
+      "constraint": "Any"
+    },
+    {
+      "key": "Pinpoint",
+      "constraint": "Any"
+    },
+    {
+      "key": "PoisonedStab",
+      "constraint": "Any"
+    },
+    {
+      "key": "Pounce",
+      "constraint": "Any"
+    },
+    {
+      "key": "PreciseCut",
+      "constraint": "Any"
+    },
+    {
+      "key": "Predator",
+      "constraint": "Any"
+    },
+    {
+      "key": "Ricochet",
+      "constraint": "Any"
+    },
+    {
+      "key": "Skewer",
+      "constraint": "Any"
+    },
+    {
+      "key": "Slice",
+      "constraint": "Any"
+    },
+    {
+      "key": "Strangle",
+      "constraint": "Any"
+    },
+    {
+      "key": "SuckerPunch",
+      "constraint": "Any"
+    }
+  ],
+  "Defect": [
+    {
+      "key": "AdaptiveStrike",
+      "constraint": "Any"
+    },
+    {
+      "key": "AllForOne",
+      "constraint": "Any"
+    },
+    {
+      "key": "BallLightning",
+      "constraint": "Any"
+    },
+    {
+      "key": "Barrage",
+      "constraint": "Any"
+    },
+    {
+      "key": "BeamCell",
+      "constraint": "Any"
+    },
+    {
+      "key": "Claw",
+      "constraint": "Any"
+    },
+    {
+      "key": "ColdSnap",
+      "constraint": "Any"
+    },
+    {
+      "key": "CompileDriver",
+      "constraint": "Any"
+    },
+    {
+      "key": "FlakCannon",
+      "constraint": "Any"
+    },
+    {
+      "key": "FocusedStrike",
+      "constraint": "Any"
+    },
+    {
+      "key": "Ftl",
+      "constraint": "Any"
+    },
+    {
+      "key": "GoForTheEyes",
+      "constraint": "Any"
+    },
+    {
+      "key": "GunkUp",
+      "constraint": "Any"
+    },
+    {
+      "key": "HelixDrill",
+      "constraint": "Any"
+    },
+    {
+      "key": "Hyperbeam",
+      "constraint": "Any"
+    },
+    {
+      "key": "IceLance",
+      "constraint": "Any"
+    },
+    {
+      "key": "MeteorStrike",
+      "constraint": "Any"
+    },
+    {
+      "key": "MomentumStrike",
+      "constraint": "Any"
+    },
+    {
+      "key": "Null",
+      "constraint": "Any"
+    },
+    {
+      "key": "Refract",
+      "constraint": "Any"
+    },
+    {
+      "key": "RocketPunch",
+      "constraint": "Any"
+    },
+    {
+      "key": "Scrape",
+      "constraint": "Any"
+    },
+    {
+      "key": "Shatter",
+      "constraint": "Any"
+    },
+    {
+      "key": "Sunder",
+      "constraint": "Any"
+    },
+    {
+      "key": "SweepingBeam",
+      "constraint": "Any"
+    },
+    {
+      "key": "Synthesis",
+      "constraint": "Any"
+    },
+    {
+      "key": "TeslaCoil",
+      "constraint": "Any"
+    },
+    {
+      "key": "Uproar",
+      "constraint": "Any"
+    }
+  ],
+  "Regent": [
+    {
+      "key": "AstralPulse",
+      "constraint": "Any"
+    },
+    {
+      "key": "BeatIntoShape",
+      "constraint": "Any"
+    },
+    {
+      "key": "Bombardment",
+      "constraint": "Any"
+    },
+    {
+      "key": "CelestialMight",
+      "constraint": "Any"
+    },
+    {
+      "key": "CollisionCourse",
+      "constraint": "Any"
+    },
+    {
+      "key": "Comet",
+      "constraint": "Any"
+    },
+    {
+      "key": "CrashLanding",
+      "constraint": "Any"
+    },
+    {
+      "key": "CrescentSpear",
+      "constraint": "Any"
+    },
+    {
+      "key": "CrushUnder",
+      "constraint": "Any"
+    },
+    {
+      "key": "Devastate",
+      "constraint": "Any"
+    },
+    {
+      "key": "DyingStar",
+      "constraint": "Any"
+    },
+    {
+      "key": "GammaBlast",
+      "constraint": "Any"
+    },
+    {
+      "key": "GuidingStar",
+      "constraint": "Any"
+    },
+    {
+      "key": "HeavenlyDrill",
+      "constraint": "Any"
+    },
+    {
+      "key": "Hegemony",
+      "constraint": "Any"
+    },
+    {
+      "key": "HeirloomHammer",
+      "constraint": "Any"
+    },
+    {
+      "key": "KinglyKick",
+      "constraint": "Any"
+    },
+    {
+      "key": "KinglyPunch",
+      "constraint": "Any"
+    },
+    {
+      "key": "KnockoutBlow",
+      "constraint": "Any"
+    },
+    {
+      "key": "LunarBlast",
+      "constraint": "Any"
+    },
+    {
+      "key": "MakeItSo",
+      "constraint": "Any"
+    },
+    {
+      "key": "PhotonCut",
+      "constraint": "Any"
+    },
+    {
+      "key": "Radiate",
+      "constraint": "Any"
+    },
+    {
+      "key": "SevenStars",
+      "constraint": "Any"
+    },
+    {
+      "key": "ShiningStrike",
+      "constraint": "Any"
+    },
+    {
+      "key": "SolarStrike",
+      "constraint": "Any"
+    },
+    {
+      "key": "Stardust",
+      "constraint": "Any"
+    },
+    {
+      "key": "Supermassive",
+      "constraint": "Any"
+    },
+    {
+      "key": "WroughtInWar",
+      "constraint": "Any"
+    }
+  ],
+  "Necrobinder": [
+    {
+      "key": "BansheesCry",
+      "constraint": "Any"
+    },
+    {
+      "key": "BlightStrike",
+      "constraint": "Any"
+    },
+    {
+      "key": "BoneShards",
+      "constraint": "Any"
+    },
+    {
+      "key": "Bury",
+      "constraint": "Any"
+    },
+    {
+      "key": "DeathMarch",
+      "constraint": "Any"
+    },
+    {
+      "key": "Debilitate",
+      "constraint": "Any"
+    },
+    {
+      "key": "Defile",
+      "constraint": "Any"
+    },
+    {
+      "key": "DrainPower",
+      "constraint": "Any"
+    },
+    {
+      "key": "Eradicate",
+      "constraint": "Any"
+    },
+    {
+      "key": "Fear",
+      "constraint": "Any"
+    },
+    {
+      "key": "Fetch",
+      "constraint": "Any"
+    },
+    {
+      "key": "Flatten",
+      "constraint": "Any"
+    },
+    {
+      "key": "Graveblast",
+      "constraint": "Any"
+    },
+    {
+      "key": "Hang",
+      "constraint": "Any"
+    },
+    {
+      "key": "HighFive",
+      "constraint": "Any"
+    },
+    {
+      "key": "Misery",
+      "constraint": "Any"
+    },
+    {
+      "key": "Poke",
+      "constraint": "Any"
+    },
+    {
+      "key": "PullFromBelow",
+      "constraint": "Any"
+    },
+    {
+      "key": "Rattle",
+      "constraint": "Any"
+    },
+    {
+      "key": "Reap",
+      "constraint": "Any"
+    },
+    {
+      "key": "Reave",
+      "constraint": "Any"
+    },
+    {
+      "key": "RightHandHand",
+      "constraint": "Any"
+    },
+    {
+      "key": "SculptingStrike",
+      "constraint": "Any"
+    },
+    {
+      "key": "Severance",
+      "constraint": "Any"
+    },
+    {
+      "key": "SicEm",
+      "constraint": "Any"
+    },
+    {
+      "key": "Snap",
+      "constraint": "Any"
+    },
+    {
+      "key": "SoulStorm",
+      "constraint": "Any"
+    },
+    {
+      "key": "Sow",
+      "constraint": "Any"
+    },
+    {
+      "key": "Squeeze",
+      "constraint": "Any"
+    },
+    {
+      "key": "TheScythe",
+      "constraint": "Any"
+    },
+    {
+      "key": "TimesUp",
+      "constraint": "Any"
+    },
+    {
+      "key": "Veilpiercer",
+      "constraint": "Any"
+    }
+  ]
+}

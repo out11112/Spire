@@ -1,0 +1,2618 @@
+{
+  "ironclad": [
+    {
+      "key": "Aggression",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Anger",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Armaments",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "AshenStrike",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Barricade",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BattleTrance",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Blaze",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "BloodWall",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Bloodletting",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Bludgeon",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BodySlam",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Brand",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Breakthrough",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Bully",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BurningPact",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Cascade",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Cinder",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Colossus",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Conflagration",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "CrimsonMantle",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Cruelty",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "DarkEmbrace",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "DemonForm",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "DemonicShield",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Dismantle",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Dominate",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "DrumOfBattle",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "EvilEye",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "ExpectAFight",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Feed",
+      "constraint": "Any",
+      "inCombat": false
+    },
+    {
+      "key": "FeelNoPain",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "FiendFire",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "FightMe",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "FlameBarrier",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "ForgottenRitual",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Havoc",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Headbutt",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Hellraiser",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Hemokinesis",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "HowlFromBeyond",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Impervious",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "InfernalBlade",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Inferno",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Inflame",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "IronWave",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Juggernaut",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Juggling",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Mangle",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Midnight",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "MoltenFist",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "NotYet",
+      "constraint": "Any",
+      "inCombat": false
+    },
+    {
+      "key": "Offering",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "OneTwoPunch",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Outrage",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "PactsEnd",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "PerfectedStrike",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Pillage",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "PommelStrike",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "PrimalForce",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Pyre",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Rage",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Rampage",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Rupture",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SecondWind",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SetupStrike",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "ShrugItOff",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Spite",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Stampede",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Stoke",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Stomp",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "StoneArmor",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SwordBoomerang",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Tank",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Taunt",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "TearAsunder",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Thrash",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Thunderclap",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Tremble",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "TrueGrit",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "TwinStrike",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Unmovable",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Unrelenting",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Uppercut",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Vicious",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Whirlwind",
+      "constraint": "Any",
+      "inCombat": true
+    }
+  ],
+  "colorless": [
+    {
+      "key": "Alchemize",
+      "constraint": "Any",
+      "inCombat": false
+    },
+    {
+      "key": "Anointed",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Automation",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BeaconOfHope",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "BeatDown",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BelieveInYou",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Bolas",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Calamity",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Catastrophe",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Coordinate",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "DarkShackles",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Discovery",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "DramaticEntrance",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Entropy",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Equilibrium",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "EternalArmor",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Fasten",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Finesse",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Fisticuffs",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "FlashOfSteel",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "GangUp",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "GoldAxe",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "HandOfGreed",
+      "constraint": "Any",
+      "inCombat": false
+    },
+    {
+      "key": "HiddenGem",
+      "constraint": "Any",
+      "inCombat": false
+    },
+    {
+      "key": "HuddleUp",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Impatience",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Intercept",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "JackOfAllTrades",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Jackpot",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Knockdown",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Lift",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "MasterOfStrategy",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Mayhem",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Mimic",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "MindBlast",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Nostalgia",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Omnislice",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Panache",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "PanicButton",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "PrepTime",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Production",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Prolong",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Prowess",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Purity",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Rally",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Rend",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Restlessness",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "RollingBoulder",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Salvo",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Scrawl",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SecretTechnique",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SecretWeapon",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SeekerStrike",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Shockwave",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Splash",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Stratagem",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "TagTeam",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "TheBall",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "TheBomb",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "TheGambit",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "ThinkingAhead",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "ThrummingHatchet",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "UltimateDefend",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "UltimateStrike",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Volley",
+      "constraint": "Any",
+      "inCombat": true
+    }
+  ],
+  "silent": [
+    {
+      "key": "Abrasive",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Accelerant",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Accuracy",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Acrobatics",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Adrenaline",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Afterimage",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Anticipate",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Assassinate",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Backflip",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Backstab",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BladeDance",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BladeOfInk",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BladeSymphony",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Blur",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BouncingFlask",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BubbleBubble",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BulletTime",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Burst",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "CalculatedGamble",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "CloakAndDagger",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Concoct",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "CorrosiveWave",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "DaggerSpray",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "DaggerThrow",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Dash",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "DeadlyPoison",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Deflect",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "DodgeAndRoll",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "EchoingSlash",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Envenom",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "EscapePlan",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Expertise",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Expose",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Fade",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "FanOfKnives",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Finisher",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Flanking",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Flechettes",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "FlickFlack",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Footwork",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "GrandFinale",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "HandTrick",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Haze",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "HiddenDaggers",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "InfiniteBlades",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "KnifeTrap",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "LeadingStrike",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "LegSweep",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Malaise",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "MasterPlanner",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "MementoMori",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Mirage",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Murder",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Nightmare",
+      "constraint": "Any",
+      "inCombat": false
+    },
+    {
+      "key": "NoxiousFumes",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Outbreak",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "PhantomBlades",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "PiercingWail",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Pinpoint",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "PoisonedStab",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Pounce",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "PreciseCut",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Predator",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Prepared",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Reflex",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Ricochet",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SerpentForm",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "ShadowStep",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Shadowmeld",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Sidestep",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Skewer",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Slice",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Snakebite",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Sneaky",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Speedster",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "StormOfSteel",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Strangle",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SuckerPunch",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Tactician",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "TheHunt",
+      "constraint": "Any",
+      "inCombat": false
+    },
+    {
+      "key": "ToolsOfTheTrade",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Tracking",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Untouchable",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "UpMySleeve",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "WellLaidPlans",
+      "constraint": "Any",
+      "inCombat": true
+    }
+  ],
+  "defect": [
+    {
+      "key": "AdaptiveStrike",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "AllForOne",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BallLightning",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Barrage",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BeamCell",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BoostAway",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BootSequence",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Buffer",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BulkUp",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Capacitor",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Chaos",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "ChargeBattery",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Chill",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Claw",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "ColdSnap",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Compact",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "CompileDriver",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "ConsumingShadow",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Coolant",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Coolheaded",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "CreativeAi",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Darkness",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Defragment",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "DoubleEnergy",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "EchoForm",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "EnergySurge",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Feral",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "FightThrough",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "FlakCannon",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "FocusedStrike",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Ftl",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Fusion",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "GeneticAlgorithm",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Glacier",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Glasswork",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "GoForTheEyes",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "GunkUp",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Hailstorm",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "HelixDrill",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Hibernate",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Hologram",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Hotfix",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Hyperbeam",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "IceLance",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Ignition",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "ImitationLearning",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Iteration",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Leap",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "LightningRod",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Loop",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "MachineLearning",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "MeteorStrike",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Modded",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "MomentumStrike",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "MultiCast",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Null",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "OneForAll",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Overclock",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Rainbow",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Reboot",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Refract",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "RocketPunch",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Scavenge",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Scrape",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "ShadowShield",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Shatter",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SignalBoost",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Skim",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Smokestack",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Spinner",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Storm",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Subroutine",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Sunder",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Supercritical",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SweepingBeam",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Synchronize",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Synthesis",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Tempest",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "TeslaCoil",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Thunder",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "TrashToTreasure",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Turbo",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Uproar",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Voltaic",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "WhiteNoise",
+      "constraint": "Any",
+      "inCombat": true
+    }
+  ],
+  "regent": [
+    {
+      "key": "Alignment",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Arsenal",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "AstralPulse",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BeatIntoShape",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Begone",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BigBang",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BlackHole",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Bombardment",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Bulwark",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BundleOfJoy",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "CelestialMight",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Charge",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "ChildOfTheStars",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "CloakOfStars",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "CollisionCourse",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Comet",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Conqueror",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Constellation",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Convergence",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "CosmicIndifference",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "CrashLanding",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "CrescentSpear",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "CrushUnder",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "DecisionsDecisions",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Devastate",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "DyingStar",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "ForegoneConclusion",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Furnace",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "GammaBlast",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "GatherLight",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Genesis",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Glimmer",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Glitterstream",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Glow",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Guards",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "GuidingStar",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "HammerTime",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "HeavenlyDrill",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Hegemony",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "HeirloomHammer",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "HiddenCache",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "IAmInvincible",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "KinglyKick",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "KinglyPunch",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "KnockoutBlow",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "KnowThyPlace",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Largesse",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "LunarBlast",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "MakeItSo",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "ManifestAuthority",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "MonarchsGaze",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Monologue",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "NeutronAegis",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Orbit",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "PaleBlueDot",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Parry",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "ParticleWall",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Patter",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "PhotonCut",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "PillarOfCreation",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Plot",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Prophesize",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Quasar",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Radiate",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "RefineBlade",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Reflect",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Resonance",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "RoyalGamble",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Royalties",
+      "constraint": "Any",
+      "inCombat": false
+    },
+    {
+      "key": "SeekingEdge",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SevenStars",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "ShiningStrike",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SolarStrike",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SpectrumShift",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SpoilsOfBattle",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Stardust",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SummonForth",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Supermassive",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SwordSage",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Terraforming",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "TheSmith",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Tutor",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Tyranny",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "VoidForm",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "WroughtInWar",
+      "constraint": "Any",
+      "inCombat": true
+    }
+  ],
+  "necrobinder": [
+    {
+      "key": "Afterlife",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BansheesCry",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BlightStrike",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BoneShards",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "BorrowedTime",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Bury",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Cacophony",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Calcify",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "CallOfTheVoid",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "CaptureSpirit",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Cleanse",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Countdown",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "DanseMacabre",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "DeathMarch",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Deathbringer",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "DeathsDoor",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Debilitate",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Defile",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Defy",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Delay",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Demesne",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "DevourLife",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Dirge",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "DrainPower",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Dredge",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Eidolon",
+      "constraint": "Any",
+      "inCombat": false
+    },
+    {
+      "key": "EndOfDays",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "EnfeeblingTouch",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Eradicate",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Fear",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Fetch",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Flatten",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Friendship",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "GlimpseBeyond",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "GraveWarden",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Graveblast",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Hang",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Haunt",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "HighFive",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Invoke",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "LegionOfBone",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Lethality",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Melancholy",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Misery",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "NecroMastery",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "NegativePulse",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Neurosurge",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "NoEscape",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Oblivion",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Pagestorm",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Parse",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Poke",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "PullAggro",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "PullFromBelow",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Putrefy",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Rattle",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Reanimate",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Reap",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "ReaperForm",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Reave",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "RightHandHand",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Sacrifice",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Scourge",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SculptingStrike",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Seance",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SentryMode",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Severance",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SharedFate",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Shroud",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SicEm",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SleightOfFlesh",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Snap",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SoulStorm",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Soulbound",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Sow",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SpiritOfAsh",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Spur",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Squeeze",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "TheScythe",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "TimesUp",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Transfigure",
+      "constraint": "Any",
+      "inCombat": false
+    },
+    {
+      "key": "Undeath",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Underworld",
+      "constraint": "MultiplayerOnly",
+      "inCombat": true
+    },
+    {
+      "key": "Veilpiercer",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Wisp",
+      "constraint": "Any",
+      "inCombat": true
+    }
+  ],
+  "curse": [
+    {
+      "key": "AscendersBane",
+      "constraint": "Any",
+      "inCombat": false
+    },
+    {
+      "key": "BadLuck",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Clumsy",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "CurseOfTheBell",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Debt",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Decay",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Doubt",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Enthralled",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Folly",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Greed",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Guilty",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Injury",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Normality",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "PoorSleep",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Regret",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Shame",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "SporeMind",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Writhe",
+      "constraint": "Any",
+      "inCombat": true
+    }
+  ],
+  "status": [
+    {
+      "key": "Beckon",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Burn",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Dazed",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Debris",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "FranticEscape",
+      "constraint": "Any",
+      "inCombat": false
+    },
+    {
+      "key": "Infection",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Slimed",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Soot",
+      "constraint": "Any",
+      "inCombat": false
+    },
+    {
+      "key": "Toxic",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Void",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Wither",
+      "constraint": "Any",
+      "inCombat": true
+    },
+    {
+      "key": "Wound",
+      "constraint": "Any",
+      "inCombat": true
+    }
+  ]
+}
